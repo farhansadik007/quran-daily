@@ -6,6 +6,7 @@ import AyahCard from '@/components/AyahCard';
 import MarkAsReadButton from '@/components/MarkAsReadButton';
 import { Ayah } from '@/types';
 import WeekMeter from '@/components/WeekMeter';
+import ShareButton from '@/components/ShareButton';
 
 
 export default function App() {
@@ -29,15 +30,24 @@ export default function App() {
     <SafeAreaView style={styles.container}>
       <WeekMeter />
       <View style={styles.centerContent}>
-      <AyahCard ayah={ayah} />
-      <MarkAsReadButton />
-    </View>
+        <AyahCard ayah={ayah} />
+        <View style={styles.actionsRow}>
+          <MarkAsReadButton />
+          <ShareButton ayah={ayah} />
+        </View>
+      </View>
     </SafeAreaView>
   );
 }
 
 const styles = StyleSheet.create({
   container: { flex: 1, justifyContent: 'flex-start', alignItems: 'center', paddingLeft: 24, paddingRight: 24, backgroundColor: '#edefe6' },
+  actionsRow: {
+    flexDirection: 'row',
+    gap: 12,
+    marginTop: 16,
+    alignItems: 'center',
+  },
   arabic: { fontSize: 20, textAlign: 'center', marginBottom: 16, lineHeight: 42 },
   translation: { fontSize: 16, textAlign: 'center', color: '#333' },
   centerContent: { flex: 1, justifyContent: 'center', alignItems: 'center' },

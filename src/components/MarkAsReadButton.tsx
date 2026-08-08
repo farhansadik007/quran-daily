@@ -1,6 +1,7 @@
 import { getReadToday, markAsRead } from '@/utils/dayMeter';
 import { useState, useEffect } from 'react';
 import { Pressable, Text, StyleSheet } from 'react-native';
+import { Ionicons } from '@expo/vector-icons';
 
 export default function MarkAsReadButton() {
     const [readToday, setReadToday] = useState(false);
@@ -24,19 +25,27 @@ export default function MarkAsReadButton() {
             disabled={readToday}
             android_ripple={{ color: 'rgba(255,255,255,0.2)', borderless: false }}
         >
-            <Text style={styles.buttonText}>{readToday ? '✓ Read Today' : 'Mark as Read'}</Text>
+            <Ionicons
+                name={readToday ? 'checkmark-circle' : 'checkmark-circle-outline'}
+                size={18}
+                color="#fff"
+                style={{ marginRight: 6 }}
+            />
+            <Text style={styles.buttonText}>{readToday ? 'Read' : 'Mark as Read'}</Text>
         </Pressable>
     );
 }
 
 const styles = StyleSheet.create({
-  button: {
-    backgroundColor: '#0f4c3a',
-    paddingVertical: 14,
-    paddingHorizontal: 32,
-    borderRadius: 12,
-    overflow: 'hidden',
-  },
-  buttonDone: { backgroundColor: '#8a9a94' },
-  buttonText: { color: '#fff', fontSize: 16, fontWeight: '600' },
+    button: {
+        flexDirection: 'row',
+        alignItems: 'center',
+        backgroundColor: '#0f4c3a',
+        paddingVertical: 10,
+        paddingHorizontal: 16,
+        borderRadius: 24,
+        overflow: 'hidden',
+    },
+    buttonDone: { backgroundColor: '#8a9a94' },
+    buttonText: { color: '#fff', fontSize: 14, fontWeight: '600' },
 });
