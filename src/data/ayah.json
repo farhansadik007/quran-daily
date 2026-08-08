@@ -1,0 +1,1729 @@
+[
+  {
+    "surahName": "Al-Fatihah",
+    "arabicData": [
+      "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "بسم الله الرحمن الرحيم"
+    ],
+    "englishData": "In the Name of Allah—the Most Compassionate, Most Merciful.",
+    "bengaliData": "পরম করুণাময় অতি দয়ালু আল্লাহর নামে।",
+    "surahNumber": 1,
+    "ayahNumber": 1
+  },
+  {
+    "surahName": "Al-Fatihah",
+    "arabicData": [
+      "ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
+      "الحمد لله رب العالمين"
+    ],
+    "englishData": "All praise is for Allah—Lord of all worlds",
+    "bengaliData": "সমস্ত প্রশংসা আল্লাহর জন্য, যিনি সৃষ্টিকুলের রব।",
+    "surahNumber": 1,
+    "ayahNumber": 2
+  },
+  {
+    "surahName": "Al-Fatihah",
+    "arabicData": [
+      "ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "الرحمن الرحيم"
+    ],
+    "englishData": "The Most Compassionate, Most Merciful",
+    "bengaliData": "দয়াময়, পরম দয়ালু, পরম করুণাময়, অতি দয়ালু।",
+    "surahNumber": 1,
+    "ayahNumber": 3
+  },
+  {
+    "surahName": "Al-Fatihah",
+    "arabicData": [
+      "مَـٰلِكِ يَوْمِ ٱلدِّينِ",
+      "مالك يوم الدين"
+    ],
+    "englishData": "Master of the Day of Judgment.",
+    "bengaliData": "বিচার দিবসের মালিক।",
+    "surahNumber": 1,
+    "ayahNumber": 4
+  },
+  {
+    "surahName": "Al-Fatihah",
+    "arabicData": [
+      "صِرَٰطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ وَلَا ٱلضَّآلِّينَ",
+      "صراط الذين انعمت عليهم غير المغضوب عليهم ولا الضالين"
+    ],
+    "englishData": "The Path of those You have blessed—not those You are displeased with, or those who are astray.",
+    "bengaliData": "তাদের পথ, যাদের উপর আপনি অনুগ্রহ করেছেন। যাদেরকে নিয়ামত দিয়েছেন।যাদের উপর (আপনার) ক্রোধ আপতিত হয়নি এবং যারা পথভ্রষ্টও নয়।",
+    "surahNumber": 1,
+    "ayahNumber": 7
+  },
+  {
+    "surahName": "Al-Baqarah",
+    "arabicData": [
+      "يَـٰٓأَيُّهَا ٱلنَّاسُ ٱعْبُدُوا۟ رَبَّكُمُ ٱلَّذِى خَلَقَكُمْ وَٱلَّذِينَ مِن قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ",
+      "يا ايها الناس اعبدوا ربكم الذي خلقكم والذين من قبلكم لعلكم تتقون"
+    ],
+    "englishData": "O humanity! Worship your Lord, Who created you and those before you, so that you may become mindful ˹of Him˺.",
+    "bengaliData": "হে মানুষ, তোমরা তোমাদের রবের ইবাদাত কর, যিনি সৃষ্টি করেছেন তোমাদেরকে এবং তোমাদের পূর্বে যারা ছিল তাদেরকে, যাতে তোমরা তাকওয়া অবলম্বন কর।",
+    "surahNumber": 2,
+    "ayahNumber": 21
+  },
+  {
+    "surahName": "Al-Baqarah",
+    "arabicData": [
+      "هُوَ ٱلَّذِى خَلَقَ لَكُم مَّا فِى ٱلْأَرْضِ جَمِيعًا ثُمَّ ٱسْتَوَىٰٓ إِلَى ٱلسَّمَآءِ فَسَوَّىٰهُنَّ سَبْعَ سَمَـٰوَٰتٍ ۚ وَهُوَ بِكُلِّ شَىْءٍ عَلِيمٌ",
+      "هو الذي خلق لكم ما في الارض جميعا ثم استوى الى السماء فسواهن سبع سماوات وهو بكل شيء عليم"
+    ],
+    "englishData": "He is the One Who created everything in the earth for you. Then He turned towards the heaven, forming it into seven heavens. And He has ˹perfect˺ knowledge of all things.",
+    "bengaliData": "তিনিই যমীনে যা আছে সব তোমাদের জন্য সৃষ্টি করেছেন। তারপর আসমানের প্রতি খেয়াল করলেন এবং তাকে সাত আসমানে সুবিন্যস্ত করলেন। আর সব কিছু সম্পর্কে তিনি সম্যক জ্ঞাত।",
+    "surahNumber": 2,
+    "ayahNumber": 29
+  },
+  {
+    "surahName": "Al-Baqarah",
+    "arabicData": [
+      "فَٱذْكُرُونِىٓ أَذْكُرْكُمْ وَٱشْكُرُوا۟ لِى وَلَا تَكْفُرُونِ",
+      "فاذكروني اذكركم واشكروا لي ولا تكفرون"
+    ],
+    "englishData": "remember Me; I will remember you. And thank Me, and never be ungrateful.",
+    "bengaliData": "অতএব, তোমরা আমাকে স্মরণ কর, আমি তোমাদেরকে স্মরণ করব। আর আমার শোকর আদায় কর, আমার সাথে কুফরী করো না।",
+    "surahNumber": 2,
+    "ayahNumber": 152
+  },
+  {
+    "surahName": "Al-Baqarah",
+    "arabicData": [
+      "وَإِذَا سَأَلَكَ عِبَادِى عَنِّى فَإِنِّى قَرِيبٌ ۖ أُجِيبُ دَعْوَةَ ٱلدَّاعِ إِذَا دَعَانِ ۖ فَلْيَسْتَجِيبُوا۟ لِى وَلْيُؤْمِنُوا۟ بِى لَعَلَّهُمْ يَرْشُدُونَ",
+      "واذا سالك عبادي عني فاني قريب اجيب دعوة الداع اذا دعان فليستجيبوا لي وليؤمنوا بي لعلهم يرشدون"
+    ],
+    "englishData": "When My servants ask you ˹O Prophet˺ about Me: I am truly near. I respond to one’s prayer when they call upon Me. So let them respond ˹with obedience˺ to Me and believe in Me, perhaps they will be guided ˹to the Right Way˺.",
+    "bengaliData": "আর যখন আমার বান্দাগণ তোমাকে আমার সম্পর্কে জিজ্ঞাসা করবে, আমি তো নিশ্চয় নিকটবর্তী। আমি আহবানকারীর ডাকে সাড়া দেই, যখন সে আমাকে ডাকে। সুতরাং তারা যেন আমার ডাকে সাড়া দেয় এবং আমার প্রতি ঈমান আনে। আশা করা যায় তারা সঠিক পথে চলবে।",
+    "surahNumber": 2,
+    "ayahNumber": 186
+  },
+  {
+    "surahName": "Al-Baqarah",
+    "arabicData": [
+      "ٱللَّهُ لَآ إِلَـٰهَ إِلَّا هُوَ ٱلْحَىُّ ٱلْقَيُّومُ ۚ لَا تَأْخُذُهُۥ سِنَةٌ وَلَا نَوْمٌ ۚ لَّهُۥ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۗ مَن ذَا ٱلَّذِى يَشْفَعُ عِندَهُۥٓ إِلَّا بِإِذْنِهِۦ ۚ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۖ وَلَا يُحِيطُونَ بِشَىْءٍ مِّنْ عِلْمِهِۦٓ إِلَّا بِمَا شَآءَ ۚ وَسِعَ كُرْسِيُّهُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ ۖ وَلَا يَـُٔودُهُۥ حِفْظُهُمَا ۚ وَهُوَ ٱلْعَلِىُّ ٱلْعَظِيمُ",
+      "الله لا اله الا هو الحي القيوم لا تاخذه سنة ولا نوم له ما في السماوات وما في الارض من ذا الذي يشفع عنده الا باذنه يعلم ما بين ايديهم وما خلفهم ولا يحيطون بشيء من علمه الا بما شاء وسع كرسيه السماوات والارض ولا يئوده حفظهما وهو العلي العظيم"
+    ],
+    "englishData": "Allah! There is no god ˹worthy of worship˺ except Him, the Ever-Living, All-Sustaining. Neither drowsiness nor sleep overtakes Him. To Him belongs whatever is in the heavens and whatever is on the earth. Who could possibly intercede with Him without His permission? He ˹fully˺ knows what is ahead of them and what is behind them, but no one can grasp any of His knowledge—except what He wills ˹to reveal˺. His Seat encompasses the heavens and the earth, and the preservation of both does not tire Him. For He is the Most High, the Greatest.",
+    "bengaliData": "আল্লাহ! তিনি ব্যতীত কোন উপাস্য নেই। তিনি স্বাধীন ও নিত্য নতুন ধারক, সব কিছুর ধারক। তন্দ্রা ও নিদ্রা তাঁকে স্পর্শ করেনা। নভোমন্ডল ও ভূমন্ডলে যা কিছু রয়েছে সবই তাঁর। কে আছে এমন, যে তাঁর অনুমতি ব্যতীত তাঁর নিকট সুপারিশ করতে পারে? সম্মুখের অথবা পশ্চাতের সবই তিনি অবগত আছেন। একমাত্র তিনি যতটুকু ইচ্ছা করেন তা ব্যতীত, তাঁর জ্ঞানের কিছুই তারা আয়ত্ত করতে পারেনা। তাঁর আসন আসমান ও যমীন ব্যাপী হয়ে আছে এবং এতদুভয়ের সংরক্ষণে তাঁকে বিব্রত হতে হয়না। তিনিই সর্বোচ্চ, মহীয়ান। (আয়াতুল কুরসী)",
+    "surahNumber": 2,
+    "ayahNumber": 255
+  },
+  {
+    "surahName": "Al-Baqarah",
+    "arabicData": [
+      "لَآ إِكْرَاهَ فِى ٱلدِّينِ ۖ قَد تَّبَيَّنَ ٱلرُّشْدُ مِنَ ٱلْغَىِّ ۚ فَمَن يَكْفُرْ بِٱلطَّـٰغُوتِ وَيُؤْمِنۢ بِٱللَّهِ فَقَدِ ٱسْتَمْسَكَ بِٱلْعُرْوَةِ ٱلْوُثْقَىٰ لَا ٱنفِصَامَ لَهَا ۗ وَٱللَّهُ سَمِيعٌ عَلِيمٌ",
+      "لا اكراه في الدين قد تبين الرشد من الغي فمن يكفر بالطاغوت ويؤمن بالله فقد استمسك بالعروة الوثقى لا انفصام لها والله سميع عليم"
+    ],
+    "englishData": "Let there be no compulsion in religion, for the truth stands out clearly from falsehood. So whoever renounces false gods and believes in Allah has certainly grasped the firmest, unfailing hand-hold. And Allah is All-Hearing, All-Knowing.",
+    "bengaliData": "দীন গ্রহণের ব্যাপারে কোন জবরদস্তি নেই। নিশ্চয় হিদায়াত স্পষ্ট হয়েছে ভ্রষ্টতা থেকে। অতএব, যে ব্যক্তি তাগূতকে অস্বীকার করে এবং আল্লাহর প্রতি ঈমান আনে, অবশ্যই সে মজবুত রশি আঁকড়ে ধরে, যা ছিন্ন হবার নয়। আর আল্লাহ সর্বশ্রোতা, সর্বজ্ঞ।",
+    "surahNumber": 2,
+    "ayahNumber": 256
+  },
+  {
+    "surahName": "Al-Baqarah",
+    "arabicData": [
+      "ءَامَنَ ٱلرَّسُولُ بِمَآ أُنزِلَ إِلَيْهِ مِن رَّبِّهِۦ وَٱلْمُؤْمِنُونَ ۚ كُلٌّ ءَامَنَ بِٱللَّهِ وَمَلَـٰٓئِكَتِهِۦ وَكُتُبِهِۦ وَرُسُلِهِۦ لَا نُفَرِّقُ بَيْنَ أَحَدٍ مِّن رُّسُلِهِۦ ۚ وَقَالُوا۟ سَمِعْنَا وَأَطَعْنَا ۖ غُفْرَانَكَ رَبَّنَا وَإِلَيْكَ ٱلْمَصِيرُ",
+      "امن الرسول بما انزل اليه من ربه والمؤمنون كل امن بالله وملائكته وكتبه ورسله لا نفرق بين احد من رسله وقالوا سمعنا واطعنا غفرانك ربنا واليك المصير"
+    ],
+    "englishData": "The Messenger ˹firmly˺ believes in what has been revealed to him from his Lord, and so do the believers. They ˹all˺ believe in Allah, His angels, His Books, and His messengers. ˹They proclaim,˺ “We make no distinction between any of His messengers.” And they say, “We hear and obey. ˹We seek˺ Your forgiveness, our Lord! And to You ˹alone˺ is the final return.”",
+    "bengaliData": "রাসূল তার নিকট তার রবের পক্ষ থেকে নাযিলকৃত বিষয়ের প্রতি ঈমান এনেছে, আর মুমিনগণও। প্রত্যেকে ঈমান এনেছে আল্লাহর উপর, তাঁর ফেরেশতাকুল, কিতাবসমূহ ও তাঁর রাসূলগণের উপর, আমরা তাঁর রাসূলগণের কারও মধ্যে তারতম্য করি না। আর তারা বলে, আমরা শুনলাম এবং মানলাম। হে আমাদের রব! আমরা আপনারই ক্ষমা প্রার্থনা করি, আর আপনার দিকেই প্রত্যাবর্তনস্থল।",
+    "surahNumber": 2,
+    "ayahNumber": 285
+  },
+  {
+    "surahName": "Al-Baqarah",
+    "arabicData": [
+      "لَا يُكَلِّفُ ٱللَّهُ نَفْسًا إِلَّا وُسْعَهَا ۚ لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا ٱكْتَسَبَتْ ۗ رَبَّنَا لَا تُؤَاخِذْنَآ إِن نَّسِينَآ أَوْ أَخْطَأْنَا ۚ رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَآ إِصْرًا كَمَا حَمَلْتَهُۥ عَلَى ٱلَّذِينَ مِن قَبْلِنَا ۚ رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِۦ ۖ وَٱعْفُ عَنَّا وَٱغْفِرْ لَنَا وَٱرْحَمْنَآ ۚ أَنتَ مَوْلَىٰنَا فَٱنصُرْنَا عَلَى ٱلْقَوْمِ ٱلْكَـٰفِرِينَ",
+      "لا يكلف الله نفسا الا وسعها لها ما كسبت وعليها ما اكتسبت ربنا لا تؤاخذنا ان نسينا او اخطانا ربنا ولا تحمل علينا اصرا كما حملته على الذين من قبلنا ربنا ولا تحملنا ما لا طاقة لنا به واعف عنا واغفر لنا وارحمنا انت مولانا فانصرنا على القوم الكافرين"
+    ],
+    "englishData": "Allah does not require of any soul more than what it can afford. All good will be for its own benefit, and all evil will be to its own loss. ˹The believers pray,˺ “Our Lord! Do not punish us if we forget or make a mistake. Our Lord! Do not place a burden on us like the one you placed on those before us. Our Lord! Do not burden us with what we cannot bear. Pardon us, forgive us, and have mercy on us. You are our ˹only˺ Guardian. So grant us victory over the disbelieving people.”",
+    "bengaliData": "আল্লাহ কোন ব্যক্তিকে তার সামর্থ্যের বাইরে দায়িত্ব দেন না। সে যা অর্জন করে তা তার জন্যই এবং সে যা কামাই করে তা তার উপরই বর্তাবে। হে আমাদের রব! আমরা যদি ভুলে যাই, অথবা ভুল করি তাহলে আপনি আমাদেরকে পাকড়াও করবেন না। হে আমাদের রব, আমাদের উপর বোঝা চাপিয়ে দেবেন না, যেমন আমাদের পূর্ববর্তীদের উপর চাপিয়ে দিয়েছেন। হে আমাদের রব, আপনি আমাদেরকে এমন কিছু বহন করাবেন না, যার সামর্থ্য আমাদের নেই। আর আপনি আমাদেরকে মার্জনা করুন এবং আমাদেরকে ক্ষমা করুন, আর আমাদের উপর দয়া করুন। আপনি আমাদের অভিভাবক। অতএব আপনি কাফির সম্প্রদায়ের বিরুদ্ধে আমাদেরকে সাহায্য করুন।",
+    "surahNumber": 2,
+    "ayahNumber": 286
+  },
+  {
+    "surahName": "Ali 'Imran",
+    "arabicData": [
+      "رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا مِن لَّدُنكَ رَحْمَةً ۚ إِنَّكَ أَنتَ ٱلْوَهَّابُ",
+      "ربنا لا تزغ قلوبنا بعد اذ هديتنا وهب لنا من لدنك رحمة انك انت الوهاب"
+    ],
+    "englishData": "˹They say,˺ “Our Lord! Do not let our hearts deviate after you have guided us. Grant us Your mercy. You are indeed the Giver ˹of all bounties˺.",
+    "bengaliData": "হে আমাদের রব, আপনি হিদায়াত দেয়ার পর আমাদের অন্তরসমূহ বক্র করবেন না এবং আপনার পক্ষ থেকে আমাদেরকে রহমত দান করুন। নিশ্চয় আপনি মহাদাতা।",
+    "surahNumber": 3,
+    "ayahNumber": 8
+  },
+  {
+    "surahName": "Ali 'Imran",
+    "arabicData": [
+      "قُلِ ٱللَّهُمَّ مَـٰلِكَ ٱلْمُلْكِ تُؤْتِى ٱلْمُلْكَ مَن تَشَآءُ وَتَنزِعُ ٱلْمُلْكَ مِمَّن تَشَآءُ وَتُعِزُّ مَن تَشَآءُ وَتُذِلُّ مَن تَشَآءُ ۖ بِيَدِكَ ٱلْخَيْرُ ۖ إِنَّكَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "قل اللهم مالك الملك تؤتي الملك من تشاء وتنزع الملك ممن تشاء وتعز من تشاء وتذل من تشاء بيدك الخير انك على كل شيء قدير"
+    ],
+    "englishData": "Say, ˹O Prophet,˺ “O Allah! Lord over all authorities! You give authority to whoever You please and remove it from who You please; You honour whoever You please and disgrace who You please—all good is in Your Hands. Surely You ˹alone˺ are Most Capable of everything.",
+    "bengaliData": "বল, ‘হে আল্লাহ, রাজত্বের মালিক, আপনি যাকে চান রাজত্ব দান করেন, আর যার থেকে চান রাজত্ব কেড়ে নেন এবং আপনি যাকে চান সম্মান দান করেন। আর যাকে চান অপমানিত করেন, আপনার হাতেই কল্যাণ। নিশ্চয় আপনি সব কিছুর উপর ক্ষমতাবান’।",
+    "surahNumber": 3,
+    "ayahNumber": 26
+  },
+  {
+    "surahName": "Ali 'Imran",
+    "arabicData": [
+      "لَن تَنَالُوا۟ ٱلْبِرَّ حَتَّىٰ تُنفِقُوا۟ مِمَّا تُحِبُّونَ ۚ وَمَا تُنفِقُوا۟ مِن شَىْءٍ فَإِنَّ ٱللَّهَ بِهِۦ عَلِيمٌ",
+      "لن تنالوا البر حتى تنفقوا مما تحبون وما تنفقوا من شيء فان الله به عليم"
+    ],
+    "englishData": "You will never achieve righteousness until you donate some of what you cherish. And whatever you give is certainly well known to Allah.",
+    "bengaliData": "তোমরা কখনো সওয়াব অর্জন করতে পারবে না, যতক্ষণ না ব্যয় করবে তা থেকে, যা তোমরা ভালবাস। আর যা কিছু তোমরা ব্যয় করবে, তবে নিশ্চয় আল্লাহ সে বিষয়ে সম্যক জ্ঞাত।",
+    "surahNumber": 3,
+    "ayahNumber": 92
+  },
+  {
+    "surahName": "Ali 'Imran",
+    "arabicData": [
+      "وَٱعْتَصِمُوا۟ بِحَبْلِ ٱللَّهِ جَمِيعًا وَلَا تَفَرَّقُوا۟ ۚ وَٱذْكُرُوا۟ نِعْمَتَ ٱللَّهِ عَلَيْكُمْ إِذْ كُنتُمْ أَعْدَآءً فَأَلَّفَ بَيْنَ قُلُوبِكُمْ فَأَصْبَحْتُم بِنِعْمَتِهِۦٓ إِخْوَٰنًا وَكُنتُمْ عَلَىٰ شَفَا حُفْرَةٍ مِّنَ ٱلنَّارِ فَأَنقَذَكُم مِّنْهَا ۗ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمْ ءَايَـٰتِهِۦ لَعَلَّكُمْ تَهْتَدُونَ",
+      "واعتصموا بحبل الله جميعا ولا تفرقوا واذكروا نعمت الله عليكم اذ كنتم اعداء فالف بين قلوبكم فاصبحتم بنعمته اخوانا وكنتم على شفا حفرة من النار فانقذكم منها كذلك يبين الله لكم اياته لعلكم تهتدون"
+    ],
+    "englishData": "And hold firmly to the rope of Allah and do not be divided. Remember Allah’s favour upon you when you were enemies, then He united your hearts, so you—by His grace—became brothers. And you were at the brink of a fiery pit and He saved you from it. This is how Allah makes His revelations clear to you, so that you may be ˹rightly˺ guided.",
+    "bengaliData": "আর তোমরা সকলে আল্লাহর রজ্জুকে দৃঢ়ভাবে ধারণ কর এবং বিভক্ত হয়ো না। আর তোমরা তোমাদের উপর আল্লাহর নিয়ামতকে স্মরণ কর, যখন তোমরা পরস্পরে শত্রু ছিলে। তারপর আল্লাহ তোমাদের অন্তরে ভালবাসার সঞ্চার করেছেন। অতঃপর তাঁর অনুগ্রহে তোমরা ভাই-ভাই হয়ে গেল। আর তোমরা ছিলে আগুনের গর্তের কিনারায়, অতঃপর তিনি তোমাদেরকে তা থেকে রক্ষা করেছেন। এভাবেই আল্লাহ তোমাদের জন্য তাঁর আয়াতসমূহ বয়ান করেন, যাতে তোমরা হিদায়াতপ্রাপ্ত হও।",
+    "surahNumber": 3,
+    "ayahNumber": 103
+  },
+  {
+    "surahName": "Ali 'Imran",
+    "arabicData": [
+      "ٱلَّذِينَ يُنفِقُونَ فِى ٱلسَّرَّآءِ وَٱلضَّرَّآءِ وَٱلْكَـٰظِمِينَ ٱلْغَيْظَ وَٱلْعَافِينَ عَنِ ٱلنَّاسِ ۗ وَٱللَّهُ يُحِبُّ ٱلْمُحْسِنِينَ",
+      "الذين ينفقون في السراء والضراء والكاظمين الغيظ والعافين عن الناس والله يحب المحسنين"
+    ],
+    "englishData": "˹They are˺ those who donate in prosperity and adversity, control their anger, and pardon others. And Allah loves the good-doers.",
+    "bengaliData": "যারা সুসময়ে ও দুঃসময়ে ব্যয় করে এবং ক্রোধ সংবরণ করে ও মানুষকে ক্ষমা করে। আর আল্লাহ সৎকর্মশীলদের ভালবাসেন।",
+    "surahNumber": 3,
+    "ayahNumber": 134
+  },
+  {
+    "surahName": "Ali 'Imran",
+    "arabicData": [
+      "إِن يَنصُرْكُمُ ٱللَّهُ فَلَا غَالِبَ لَكُمْ ۖ وَإِن يَخْذُلْكُمْ فَمَن ذَا ٱلَّذِى يَنصُرُكُم مِّنۢ بَعْدِهِۦ ۗ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ",
+      "ان ينصركم الله فلا غالب لكم وان يخذلكم فمن ذا الذي ينصركم من بعده وعلى الله فليتوكل المؤمنون"
+    ],
+    "englishData": "If Allah helps you, none can defeat you. But if He denies you help, then who else can help you? So in Allah let the believers put their trust.",
+    "bengaliData": "যদি আল্লাহ তোমাদেরকে সাহায্য করেন তবে তোমাদের উপর বিজয়ী কেউ নেই। আর যদি তিনি তোমাদেরকে লাঞ্ছিত করেন তবে কে এমন আছে যে, তোমাদেরকে এর পরে সাহায্য করবে? আর আল্লাহর উপরই যেন মুমিনগণ তাওয়াক্কুল করে।",
+    "surahNumber": 3,
+    "ayahNumber": 160
+  },
+  {
+    "surahName": "Ali 'Imran",
+    "arabicData": [
+      "۞ لَتُبْلَوُنَّ فِىٓ أَمْوَٰلِكُمْ وَأَنفُسِكُمْ وَلَتَسْمَعُنَّ مِنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ مِن قَبْلِكُمْ وَمِنَ ٱلَّذِينَ أَشْرَكُوٓا۟ أَذًى كَثِيرًا ۚ وَإِن تَصْبِرُوا۟ وَتَتَّقُوا۟ فَإِنَّ ذَٰلِكَ مِنْ عَزْمِ ٱلْأُمُورِ",
+      "لتبلون في اموالكم وانفسكم ولتسمعن من الذين اوتوا الكتاب من قبلكم ومن الذين اشركوا اذى كثيرا وان تصبروا وتتقوا فان ذلك من عزم الامور"
+    ],
+    "englishData": "You ˹believers˺ will surely be tested in your wealth and yourselves, and you will certainly hear many hurtful words from those who were given the Scripture before you and ˹from˺ the polytheists. But if you are patient and mindful ˹of Allah˺—surely this is a resolve to aspire to.",
+    "bengaliData": "অবশ্যই তোমাদেরকে তোমাদের ধন-সম্পদ ও তোমাদের নিজ জীবন সম্পর্কে পরীক্ষা করা হবে। আর অবশ্যই তোমরা শুনবে তোমাদের পূর্বে যাদের কিতাব দেয়া হয়েছে তাদের পক্ষ থেকে এবং মুশরিকদের পক্ষ থেকে অনেক কষ্টদায়ক কথা। আর যদি তোমরা ধৈর্য ধর এবং তাকওয়া অবলম্বন কর তবে নিশ্চয় তা হবে দৃঢ় সংকল্পের কাজ।",
+    "surahNumber": 3,
+    "ayahNumber": 186
+  },
+  {
+    "surahName": "Ali 'Imran",
+    "arabicData": [
+      "ٱلَّذِينَ يَذْكُرُونَ ٱللَّهَ قِيَـٰمًا وَقُعُودًا وَعَلَىٰ جُنُوبِهِمْ وَيَتَفَكَّرُونَ فِى خَلْقِ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ رَبَّنَا مَا خَلَقْتَ هَـٰذَا بَـٰطِلًا سُبْحَـٰنَكَ فَقِنَا عَذَابَ ٱلنَّارِ",
+      "الذين يذكرون الله قياما وقعودا وعلى جنوبهم ويتفكرون في خلق السماوات والارض ربنا ما خلقت هذا باطلا سبحانك فقنا عذاب النار"
+    ],
+    "englishData": "˹They are˺ those who remember Allah while standing, sitting, and lying on their sides, and reflect on the creation of the heavens and the earth ˹and pray˺, “Our Lord! You have not created ˹all of˺ this without purpose. Glory be to You! Protect us from the torment of the Fire.",
+    "bengaliData": "যারা আল্লাহকে স্মরণ করে দাঁড়িয়ে, বসে ও কাত হয়ে এবং আসমানসমূহ ও যমীনের সৃষ্টি সম্পর্কে চিন্তা করে। (বলে) ‘হে আমাদের রব, তুমি এসব অনর্থক সৃষ্টি করনি। তুমি পবিত্র মহান। সুতরাং তুমি আমাদেরকে আগুনের আযাব থেকে রক্ষা কর’।",
+    "surahNumber": 3,
+    "ayahNumber": 191
+  },
+  {
+    "surahName": "Ali 'Imran",
+    "arabicData": [
+      "رَبَّنَآ إِنَّكَ مَن تُدْخِلِ ٱلنَّارَ فَقَدْ أَخْزَيْتَهُۥ ۖ وَمَا لِلظَّـٰلِمِينَ مِنْ أَنصَارٍ",
+      "ربنا انك من تدخل النار فقد اخزيته وما للظالمين من انصار"
+    ],
+    "englishData": "Our Lord! Indeed, those You commit to the Fire will be ˹completely˺ disgraced! And the wrongdoers will have no helpers.",
+    "bengaliData": "‘হে আমাদের রব, নিশ্চয় তুমি যাকে আগুনে প্রবেশ করাবে, অবশ্যই তাকে তুমি অপমান করবে। আর যালিমদের জন্য কোন সাহায্যকারী নেই’।",
+    "surahNumber": 3,
+    "ayahNumber": 192
+  },
+  {
+    "surahName": "An-Nisa",
+    "arabicData": [
+      "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَأْكُلُوٓا۟ أَمْوَٰلَكُم بَيْنَكُم بِٱلْبَـٰطِلِ إِلَّآ أَن تَكُونَ تِجَـٰرَةً عَن تَرَاضٍ مِّنكُمْ ۚ وَلَا تَقْتُلُوٓا۟ أَنفُسَكُمْ ۚ إِنَّ ٱللَّهَ كَانَ بِكُمْ رَحِيمًا",
+      "يا ايها الذين امنوا لا تاكلوا اموالكم بينكم بالباطل الا ان تكون تجارة عن تراض منكم ولا تقتلوا انفسكم ان الله كان بكم رحيما"
+    ],
+    "englishData": "O believers! Do not devour one another’s wealth illegally, but rather trade by mutual consent. And do not kill ˹each other or˺ yourselves. Surely Allah is ever Merciful to you.",
+    "bengaliData": "হে মুমিনগণ, তোমরা পরস্পরের মধ্যে তোমাদের ধন-সম্পদ অন্যায়ভাবে খেয়ো না, তবে পারস্পরিক সম্মতিতে ব্যবসার মাধ্যমে হলে ভিন্ন কথা। আর তোমরা নিজেরা নিজদেরকে হত্যা করো না। নিশ্চয় আল্লাহ তোমাদের ব্যাপারে পরম দয়ালু।",
+    "surahNumber": 4,
+    "ayahNumber": 29
+  },
+  {
+    "surahName": "An-Nisa",
+    "arabicData": [
+      "۞ وَٱعْبُدُوا۟ ٱللَّهَ وَلَا تُشْرِكُوا۟ بِهِۦ شَيْـًٔا ۖ وَبِٱلْوَٰلِدَيْنِ إِحْسَـٰنًا وَبِذِى ٱلْقُرْبَىٰ وَٱلْيَتَـٰمَىٰ وَٱلْمَسَـٰكِينِ وَٱلْجَارِ ذِى ٱلْقُرْبَىٰ وَٱلْجَارِ ٱلْجُنُبِ وَٱلصَّاحِبِ بِٱلْجَنۢبِ وَٱبْنِ ٱلسَّبِيلِ وَمَا مَلَكَتْ أَيْمَـٰنُكُمْ ۗ إِنَّ ٱللَّهَ لَا يُحِبُّ مَن كَانَ مُخْتَالًا فَخُورًا",
+      "واعبدوا الله ولا تشركوا به شيئا وبالوالدين احسانا وبذي القربى واليتامى والمساكين والجار ذي القربى والجار الجنب والصاحب بالجنب وابن السبيل وما ملكت ايمانكم ان الله لا يحب من كان مختالا فخورا"
+    ],
+    "englishData": "Worship Allah ˹alone˺ and associate none with Him. And be kind to parents, relatives, orphans, the poor, near and distant neighbours, close friends, ˹needy˺ travellers, and those ˹bondspeople˺ in your possession. Surely Allah does not like whoever is arrogant, boastful—",
+    "bengaliData": "তোমরা ইবাদাত কর আল্লাহর, তাঁর সাথে কোন কিছুকে শরীক করো না। আর সদ্ব্যবহার কর মাতা-পিতার সাথে, নিকট আত্মীয়ের সাথে, ইয়াতীম, মিসকীন, নিকট আত্মীয়- প্রতিবেশী, অনাত্মীয়- প্রতিবেশী, পার্শ্ববর্তী সাথী, মুসাফির এবং তোমাদের মালিকানাভুক্ত দাস-দাসীদের সাথে। নিশ্চয় আল্লাহ পছন্দ করেন না তাদেরকে যারা দাম্ভিক, অহঙ্কারী।",
+    "surahNumber": 4,
+    "ayahNumber": 36
+  },
+  {
+    "surahName": "An-Nisa",
+    "arabicData": [
+      "۞ إِنَّ ٱللَّهَ يَأْمُرُكُمْ أَن تُؤَدُّوا۟ ٱلْأَمَـٰنَـٰتِ إِلَىٰٓ أَهْلِهَا وَإِذَا حَكَمْتُم بَيْنَ ٱلنَّاسِ أَن تَحْكُمُوا۟ بِٱلْعَدْلِ ۚ إِنَّ ٱللَّهَ نِعِمَّا يَعِظُكُم بِهِۦٓ ۗ إِنَّ ٱللَّهَ كَانَ سَمِيعًۢا بَصِيرًا",
+      "ان الله يامركم ان تؤدوا الامانات الى اهلها واذا حكمتم بين الناس ان تحكموا بالعدل ان الله نعما يعظكم به ان الله كان سميعا بصيرا"
+    ],
+    "englishData": "Indeed, Allah commands you to return trusts to their rightful owners; and when you judge between people, judge with fairness. What a noble commandment from Allah to you! Surely Allah is All-Hearing, All-Seeing.",
+    "bengaliData": "নিশ্চয় আল্লাহ তোমাদেরকে আদেশ দিচ্ছেন আমানতসমূহ তার হকদারদের কাছে পৌঁছে দিতে। আর যখন মানুষের মধ্যে ফয়সালা করবে তখন ন্যায়ভিত্তিক ফয়সালা করবে। নিশ্চয় আল্লাহ তোমাদেরকে কতইনা সুন্দর উপদেশ দিচ্ছেন। নিশ্চয় আল্লাহ সর্বশ্রোতা, সর্বদ্রষ্টা।",
+    "surahNumber": 4,
+    "ayahNumber": 58
+  },
+  {
+    "surahName": "An-Nisa",
+    "arabicData": [
+      "أَيْنَمَا تَكُونُوا۟ يُدْرِككُّمُ ٱلْمَوْتُ وَلَوْ كُنتُمْ فِى بُرُوجٍ مُّشَيَّدَةٍ ۗ وَإِن تُصِبْهُمْ حَسَنَةٌ يَقُولُوا۟ هَـٰذِهِۦ مِنْ عِندِ ٱللَّهِ ۖ وَإِن تُصِبْهُمْ سَيِّئَةٌ يَقُولُوا۟ هَـٰذِهِۦ مِنْ عِندِكَ ۚ قُلْ كُلٌّ مِّنْ عِندِ ٱللَّهِ ۖ فَمَالِ هَـٰٓؤُلَآءِ ٱلْقَوْمِ لَا يَكَادُونَ يَفْقَهُونَ حَدِيثًا",
+      "اينما تكونوا يدرككم الموت ولو كنتم في بروج مشيدة وان تصبهم حسنة يقولوا هذه من عند الله وان تصبهم سيئة يقولوا هذه من عندك قل كل من عند الله فمال هؤلاء القوم لا يكادون يفقهون حديثا"
+    ],
+    "englishData": "Wherever you may be, death will overcome you—even if you were in fortified towers.” When something good befalls them, they say, “This is from Allah,” but when something evil befalls them, they say, “This is from you.” Say, ˹O Prophet,˺ “Both have been destined by Allah.” So what is the matter with these people? They can hardly comprehend anything!",
+    "bengaliData": "তোমরা যেখানেই থাক না কেন মৃত্যু তোমাদের নাগাল পাবে, যদিও তোমরা সুদৃঢ় দুর্গে অবস্থান কর। আর যদি তাদের কাছে কোন কল্যাণ পৌঁছে তবে বলে, ‘এটি আল্লাহর পক্ষ থেকে’। আর যদি কোন অকল্যাণ পৌঁছে, তখন বলে, ‘এটি তোমার পক্ষ থেকে’। বল, ‘সব কিছু আল্লাহর পক্ষ থেকে’। সুতরাং এই কওমের কী হল, তারা কোন কথা বুঝতে চায় না!",
+    "surahNumber": 4,
+    "ayahNumber": 78
+  },
+  {
+    "surahName": "An-Nisa",
+    "arabicData": [
+      "ٱللَّهُ لَآ إِلَـٰهَ إِلَّا هُوَ ۚ لَيَجْمَعَنَّكُمْ إِلَىٰ يَوْمِ ٱلْقِيَـٰمَةِ لَا رَيْبَ فِيهِ ۗ وَمَنْ أَصْدَقُ مِنَ ٱللَّهِ حَدِيثًا",
+      "الله لا اله الا هو ليجمعنكم الى يوم القيامة لا ريب فيه ومن اصدق من الله حديثا"
+    ],
+    "englishData": "Allah, there is no god ˹worthy of worship˺ except Him. He will certainly gather ˹all of˺ you together on the Day of Judgment—about which there is no doubt. And whose word is more truthful than Allah’s?",
+    "bengaliData": "আল্লাহ, তিনি ছাড়া কোন (সত্য) ইলাহ নেই। অবশ্যই তিনি তোমাদেরকে একত্র করবেন কিয়ামতের দিনে। এতে কোন সন্দেহ নেই। আর কথায় আল্লাহর চেয়ে অধিক সত্যবাদী কে?",
+    "surahNumber": 4,
+    "ayahNumber": 87
+  },
+  {
+    "surahName": "An-Nisa",
+    "arabicData": [
+      "وَمَن يَعْمَلْ سُوٓءًا أَوْ يَظْلِمْ نَفْسَهُۥ ثُمَّ يَسْتَغْفِرِ ٱللَّهَ يَجِدِ ٱللَّهَ غَفُورًا رَّحِيمًا",
+      "ومن يعمل سوءا او يظلم نفسه ثم يستغفر الله يجد الله غفورا رحيما"
+    ],
+    "englishData": "Whoever commits evil or wrongs themselves then seeks Allah’s forgiveness will certainly find Allah All-Forgiving, Most Merciful.",
+    "bengaliData": "আর যে ব্যক্তি মন্দ কাজ করবে কিংবা নিজের প্রতি যুলম করবে তারপর আল্লাহর কাছে ক্ষমা চাইবে, সে আল্লাহকে পাবে ক্ষমাশীল, পরম দয়ালু।",
+    "surahNumber": 4,
+    "ayahNumber": 110
+  },
+  {
+    "surahName": "An-Nisa",
+    "arabicData": [
+      "لَّيْسَ بِأَمَانِيِّكُمْ وَلَآ أَمَانِىِّ أَهْلِ ٱلْكِتَـٰبِ ۗ مَن يَعْمَلْ سُوٓءًا يُجْزَ بِهِۦ وَلَا يَجِدْ لَهُۥ مِن دُونِ ٱللَّهِ وَلِيًّا وَلَا نَصِيرًا",
+      "ليس بامانيكم ولا اماني اهل الكتاب من يعمل سوءا يجز به ولا يجد له من دون الله وليا ولا نصيرا"
+    ],
+    "englishData": "˹Divine grace is˺ neither by your wishes nor those of the People of the Book! Whoever commits evil will be rewarded accordingly, and they will find no protector or helper besides Allah.",
+    "bengaliData": "না তোমাদের আশায় এবং না কিতাবীদের আশায় (কাজ হবে)। যে মন্দকাজ করবে তাকে তার প্রতিফল দেয়া হবে। আর সে তার জন্য আল্লাহ ছাড়া কোন অভিভাবক ও সাহায্যকারী পাবে না।",
+    "surahNumber": 4,
+    "ayahNumber": 123
+  },
+  {
+    "surahName": "An-Nisa",
+    "arabicData": [
+      "۞ يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُونُوا۟ قَوَّٰمِينَ بِٱلْقِسْطِ شُهَدَآءَ لِلَّهِ وَلَوْ عَلَىٰٓ أَنفُسِكُمْ أَوِ ٱلْوَٰلِدَيْنِ وَٱلْأَقْرَبِينَ ۚ إِن يَكُنْ غَنِيًّا أَوْ فَقِيرًا فَٱللَّهُ أَوْلَىٰ بِهِمَا ۖ فَلَا تَتَّبِعُوا۟ ٱلْهَوَىٰٓ أَن تَعْدِلُوا۟ ۚ وَإِن تَلْوُۥٓا۟ أَوْ تُعْرِضُوا۟ فَإِنَّ ٱللَّهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرًا",
+      "يا ايها الذين امنوا كونوا قوامين بالقسط شهداء لله ولو على انفسكم او الوالدين والاقربين ان يكن غنيا او فقيرا فالله اولى بهما فلا تتبعوا الهوى ان تعدلوا وان تلووا او تعرضوا فان الله كان بما تعملون خبيرا"
+    ],
+    "englishData": "O believers! Stand firm for justice as witnesses for Allah even if it is against yourselves, your parents, or close relatives. Be they rich or poor, Allah is best to ensure their interests. So do not let your desires cause you to deviate ˹from justice˺. If you distort the testimony or refuse to give it, then ˹know that˺ Allah is certainly All-Aware of what you do.",
+    "bengaliData": "হে মুমিনগণ, তোমরা ন্যায়ের উপর সুপ্রতিষ্ঠিত থাকবে আল্লাহর জন্য সাক্ষীরূপে। যদিও তা তোমাদের নিজদের কিংবা পিতা-মাতার অথবা নিকটাত্মীয়দের বিরুদ্ধে হয়। যদি সে বিত্তশালী হয় কিংবা দরিদ্র, তবে আল্লাহ উভয়ের ঘনিষ্ঠতর। সুতরাং ন্যায় প্রতিষ্ঠা করতে তোমরা প্রবৃত্তির অনুসরণ করো না। আর যদি তোমরা ঘুরিয়ে- পেঁচিয়ে কথা বল কিংবা এড়িয়ে যাও তবে আল্লাহ তোমরা যা কর সে বিষয়ে সম্যক অবগত।",
+    "surahNumber": 4,
+    "ayahNumber": 135
+  },
+  {
+    "surahName": "An-Nisa",
+    "arabicData": [
+      "مَّا يَفْعَلُ ٱللَّهُ بِعَذَابِكُمْ إِن شَكَرْتُمْ وَءَامَنتُمْ ۚ وَكَانَ ٱللَّهُ شَاكِرًا عَلِيمًا",
+      "ما يفعل الله بعذابكم ان شكرتم وامنتم وكان الله شاكرا عليما"
+    ],
+    "englishData": "Why should Allah punish you if you are grateful and faithful? Allah is ever Appreciative, All-Knowing.",
+    "bengaliData": "যদি তোমরা কৃতজ্ঞতা প্রকাশ কর এবং ঈমান আন তাহলে তোমাদেরকে আযাব দিয়ে আল্লাহ কী করবেন? আল্লাহ পুরস্কার দানকারী, সর্বজ্ঞ।",
+    "surahNumber": 4,
+    "ayahNumber": 147
+  },
+  {
+    "surahName": "An-Nisa",
+    "arabicData": [
+      "۞ لَّا يُحِبُّ ٱللَّهُ ٱلْجَهْرَ بِٱلسُّوٓءِ مِنَ ٱلْقَوْلِ إِلَّا مَن ظُلِمَ ۚ وَكَانَ ٱللَّهُ سَمِيعًا عَلِيمًا",
+      "لا يحب الله الجهر بالسوء من القول الا من ظلم وكان الله سميعا عليما"
+    ],
+    "englishData": "Allah does not like negative thoughts to be voiced—except by those who have been wronged. Allah is All-Hearing, All-Knowing.",
+    "bengaliData": "মন্দ কথার প্রচার আল্লাহ পছন্দ করেন না, তবে কারো উপর যুলম করা হলে ভিন্ন কথা। আর আল্লাহ সর্বশ্রোতা, সর্বজ্ঞানী।",
+    "surahNumber": 4,
+    "ayahNumber": 148
+  },
+  {
+    "surahName": "An-Nisa",
+    "arabicData": [
+      "إِن تُبْدُوا۟ خَيْرًا أَوْ تُخْفُوهُ أَوْ تَعْفُوا۟ عَن سُوٓءٍ فَإِنَّ ٱللَّهَ كَانَ عَفُوًّا قَدِيرًا",
+      "ان تبدوا خيرا او تخفوه او تعفوا عن سوء فان الله كان عفوا قديرا"
+    ],
+    "englishData": "Whether you reveal or conceal a good or pardon an evil—surely Allah is Ever-Pardoning, Most Capable.",
+    "bengaliData": "যদি তোমরা ভালো কিছু প্রকাশ কর, কিংবা গোপন কর অথবা মন্দ ক্ষমা করে দাও, তবে নিশ্চয় আল্লাহ ক্ষমাশীল, ক্ষমতাবান।",
+    "surahNumber": 4,
+    "ayahNumber": 149
+  },
+  {
+    "surahName": "An-Nisa",
+    "arabicData": [
+      "يَـٰٓأَيُّهَا ٱلنَّاسُ قَدْ جَآءَكُمُ ٱلرَّسُولُ بِٱلْحَقِّ مِن رَّبِّكُمْ فَـَٔامِنُوا۟ خَيْرًا لَّكُمْ ۚ وَإِن تَكْفُرُوا۟ فَإِنَّ لِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمًا",
+      "يا ايها الناس قد جاءكم الرسول بالحق من ربكم فامنوا خيرا لكم وان تكفروا فان لله ما في السماوات والارض وكان الله عليما حكيما"
+    ],
+    "englishData": "O humanity! The Messenger has certainly come to you with the truth from your Lord, so believe for your own good. But if you disbelieve, then ˹know that˺ to Allah belongs whatever is in the heavens and the earth. And Allah is All-Knowing, All-Wise.",
+    "bengaliData": "হে মানুষ, অবশ্যই তোমাদের নিকট রাসূল এসেছে, তোমাদের রবের পক্ষ থেকে সত্য নিয়ে। সুতরাং তোমরা ঈমান আন, তা তোমাদের জন্য উত্তম হবে। আর যদি কুফরী কর, তবে নিশ্চয় আসমানসমূহ ও যমীনে যা রয়েছে, তা আল্লাহর জন্যই এবং আল্লাহ সর্বজ্ঞ, প্রজ্ঞাময়।",
+    "surahNumber": 4,
+    "ayahNumber": 170
+  },
+  {
+    "surahName": "An-Nisa",
+    "arabicData": [
+      "يَـٰٓأَيُّهَا ٱلنَّاسُ قَدْ جَآءَكُم بُرْهَـٰنٌ مِّن رَّبِّكُمْ وَأَنزَلْنَآ إِلَيْكُمْ نُورًا مُّبِينًا",
+      "يا ايها الناس قد جاءكم برهان من ربكم وانزلنا اليكم نورا مبينا"
+    ],
+    "englishData": "O humanity! There has come to you conclusive evidence from your Lord. And We have sent down to you a brilliant light.",
+    "bengaliData": "হে মানুষ, তোমাদের রবের পক্ষ থেকে তোমাদের নিকট প্রমাণ এসেছে এবং আমি তোমাদের নিকট স্পষ্ট আলো নাযিল করেছি।",
+    "surahNumber": 4,
+    "ayahNumber": 174
+  },
+  {
+    "surahName": "Al-Ma'idah",
+    "arabicData": [
+      "مِنْ أَجْلِ ذَٰلِكَ كَتَبْنَا عَلَىٰ بَنِىٓ إِسْرَٰٓءِيلَ أَنَّهُۥ مَن قَتَلَ نَفْسًۢا بِغَيْرِ نَفْسٍ أَوْ فَسَادٍ فِى ٱلْأَرْضِ فَكَأَنَّمَا قَتَلَ ٱلنَّاسَ جَمِيعًا وَمَنْ أَحْيَاهَا فَكَأَنَّمَآ أَحْيَا ٱلنَّاسَ جَمِيعًا ۚ وَلَقَدْ جَآءَتْهُمْ رُسُلُنَا بِٱلْبَيِّنَـٰتِ ثُمَّ إِنَّ كَثِيرًا مِّنْهُم بَعْدَ ذَٰلِكَ فِى ٱلْأَرْضِ لَمُسْرِفُونَ",
+      "من اجل ذلك كتبنا على بني اسرائيل انه من قتل نفسا بغير نفس او فساد في الارض فكانما قتل الناس جميعا ومن احياها فكانما احيا الناس جميعا ولقد جاءتهم رسلنا بالبينات ثم ان كثيرا منهم بعد ذلك في الارض لمسرفون"
+    ],
+    "englishData": "That is why We ordained for the Children of Israel that whoever takes a life—unless as a punishment for murder or mischief in the land—it will be as if they killed all of humanity; and whoever saves a life, it will be as if they saved all of humanity. ˹Although˺ Our messengers already came to them with clear proofs, many of them still transgressed afterwards through the land.",
+    "bengaliData": "এ কারণেই, আমি বনী ইসরাঈলের উপর এই হুকুম দিলাম যে, যে ব্যক্তি কাউকে হত্যা করা কিংবা যমীনে ফাসাদ সৃষ্টি করা ছাড়া যে কাউকে হত্যা করল, সে যেন সব মানুষকে হত্যা করল। আর যে তাকে বাঁচাল, সে যেন সব মানুষকে বাঁচাল। আর অবশ্যই তাদের নিকট আমার রাসূলগণ সুস্পষ্ট নিদর্শনসমূহ নিয়ে এসেছে। তা সত্ত্বেও এরপর যমীনে তাদের অনেকে অবশ্যই সীমালঙ্ঘনকারী।",
+    "surahNumber": 5,
+    "ayahNumber": 32
+  },
+  {
+    "surahName": "Al-Ma'idah",
+    "arabicData": [
+      "إِنَّ ٱلَّذِينَ كَفَرُوا۟ لَوْ أَنَّ لَهُم مَّا فِى ٱلْأَرْضِ جَمِيعًا وَمِثْلَهُۥ مَعَهُۥ لِيَفْتَدُوا۟ بِهِۦ مِنْ عَذَابِ يَوْمِ ٱلْقِيَـٰمَةِ مَا تُقُبِّلَ مِنْهُمْ ۖ وَلَهُمْ عَذَابٌ أَلِيمٌ",
+      "ان الذين كفروا لو ان لهم ما في الارض جميعا ومثله معه ليفتدوا به من عذاب يوم القيامة ما تقبل منهم ولهم عذاب اليم"
+    ],
+    "englishData": "As for the disbelievers, even if they were to possess everything in the world twice over ˹and offer it all˺ to ransom themselves from the punishment of the Day of Judgment, it would never be accepted from them. And they will suffer a painful punishment.",
+    "bengaliData": "নিশ্চয় যারা কুফরী করেছে, যদি যমীনে যা আছে তার সব ও তার সাথে সমপরিমাণও তাদের জন্য থাকে, যাতে তারা তার মাধ্যমে কিয়ামতের আযাব থেকে রক্ষার মুক্তিপণ দিতে পারে, তাহলেও তাদের থেকে তা গ্রহণ করা হবে না এবং তাদের জন্য রয়েছে যন্ত্রণাদায়ক আযাব।",
+    "surahNumber": 5,
+    "ayahNumber": 36
+  },
+  {
+    "surahName": "Al-Ma'idah",
+    "arabicData": [
+      "وَإِذَا نَادَيْتُمْ إِلَى ٱلصَّلَوٰةِ ٱتَّخَذُوهَا هُزُوًا وَلَعِبًا ۚ ذَٰلِكَ بِأَنَّهُمْ قَوْمٌ لَّا يَعْقِلُونَ",
+      "واذا ناديتم الى الصلاة اتخذوها هزوا ولعبا ذلك بانهم قوم لا يعقلون"
+    ],
+    "englishData": "When you call to prayer, they mock it in amusement. This is because they are a people without understanding.",
+    "bengaliData": "আর যখন তোমরা সালাতের দিকে ডাক, তখন তারা একে উপহাস ও খেল-তামাশারূপে গ্রহণ করে। তা এই কারণে যে, তারা এমন কওম, যারা বুঝে না।",
+    "surahNumber": 5,
+    "ayahNumber": 58
+  },
+  {
+    "surahName": "Al-Ma'idah",
+    "arabicData": [
+      "وَٱلَّذِينَ كَفَرُوا۟ وَكَذَّبُوا۟ بِـَٔايَـٰتِنَآ أُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلْجَحِيمِ",
+      "والذين كفروا وكذبوا باياتنا اولئك اصحاب الجحيم"
+    ],
+    "englishData": "As for those who disbelieve and reject Our signs, they will be the residents of the Hellfire.",
+    "bengaliData": "আর যারা কুফরী করেছে এবং আমার আয়াতসমূহকে অস্বীকার করেছে, তারাই প্রজ্বলিত আগুনের অধিবাসী।",
+    "surahNumber": 5,
+    "ayahNumber": 86
+  },
+  {
+    "surahName": "Al-An'am",
+    "arabicData": [
+      "وَهُوَ ٱللَّهُ فِى ٱلسَّمَـٰوَٰتِ وَفِى ٱلْأَرْضِ ۖ يَعْلَمُ سِرَّكُمْ وَجَهْرَكُمْ وَيَعْلَمُ مَا تَكْسِبُونَ",
+      "وهو الله في السماوات وفي الارض يعلم سركم وجهركم ويعلم ما تكسبون"
+    ],
+    "englishData": "He is the Only True God in the heavens and the earth. He knows whatever you conceal and whatever you reveal, and knows whatever you do.",
+    "bengaliData": "আর আসমানসমূহ ও যমীনে তিনিই আল্লাহ, তিনি জানেন তোমাদের গোপন ও প্রকাশ্য এবং জানেন যা তোমরা অর্জন কর।",
+    "surahNumber": 6,
+    "ayahNumber": 3
+  },
+  {
+    "surahName": "Al-An'am",
+    "arabicData": [
+      "وَمَا ٱلْحَيَوٰةُ ٱلدُّنْيَآ إِلَّا لَعِبٌ وَلَهْوٌ ۖ وَلَلدَّارُ ٱلْـَٔاخِرَةُ خَيْرٌ لِّلَّذِينَ يَتَّقُونَ ۗ أَفَلَا تَعْقِلُونَ",
+      "وما الحياة الدنيا الا لعب ولهو وللدار الاخرة خير للذين يتقون افلا تعقلون"
+    ],
+    "englishData": "This worldly life is no more than play and amusement, but far better is the ˹eternal˺ Home of the Hereafter for those mindful ˹of Allah˺. Will you not then understand?",
+    "bengaliData": "আর দুনিয়ার জীবন খেলাধুলা ও তামাশা ছাড়া কিছু না। আর যারা তাকওয়া অবলম্বন করে তাদের জন্য আখিরাতের আবাস উত্তম। অতএব তোমরা কি বুঝবে না?",
+    "surahNumber": 6,
+    "ayahNumber": 32
+  },
+  {
+    "surahName": "Al-An'am",
+    "arabicData": [
+      "وَإِذَا جَآءَكَ ٱلَّذِينَ يُؤْمِنُونَ بِـَٔايَـٰتِنَا فَقُلْ سَلَـٰمٌ عَلَيْكُمْ ۖ كَتَبَ رَبُّكُمْ عَلَىٰ نَفْسِهِ ٱلرَّحْمَةَ ۖ أَنَّهُۥ مَنْ عَمِلَ مِنكُمْ سُوٓءًۢا بِجَهَـٰلَةٍ ثُمَّ تَابَ مِنۢ بَعْدِهِۦ وَأَصْلَحَ فَأَنَّهُۥ غَفُورٌ رَّحِيمٌ",
+      "واذا جاءك الذين يؤمنون باياتنا فقل سلام عليكم كتب ربكم على نفسه الرحمة انه من عمل منكم سوءا بجهالة ثم تاب من بعده واصلح فانه غفور رحيم"
+    ],
+    "englishData": "When the believers in Our revelations come to you, say, “Peace be upon you! Your Lord has taken upon Himself to be Merciful. Whoever among you commits evil ignorantly ˹or recklessly˺ then repents afterwards and mends their ways, then Allah is truly All-Forgiving, Most Merciful.”",
+    "bengaliData": "আর যারা আমার আয়াতসমূহের উপর ঈমান আনে, তারা যখন তোমার কাছে আসে, তখন তুমি বল, ‘তোমাদের উপর সালাম’। তোমাদের রব তাঁর নিজের উপর লিখে নিয়েছেন দয়া, নিশ্চয় যে তোমাদের মধ্য থেকে না জেনে খারাপ কাজ করে তারপর তাওবা করে এবং শুধরে নেয়, তবে তিনি ক্ষমাশীল, পরম দয়ালু।",
+    "surahNumber": 6,
+    "ayahNumber": 54
+  },
+  {
+    "surahName": "Al-An'am",
+    "arabicData": [
+      "وَذَرِ ٱلَّذِينَ ٱتَّخَذُوا۟ دِينَهُمْ لَعِبًا وَلَهْوًا وَغَرَّتْهُمُ ٱلْحَيَوٰةُ ٱلدُّنْيَا ۚ وَذَكِّرْ بِهِۦٓ أَن تُبْسَلَ نَفْسٌۢ بِمَا كَسَبَتْ لَيْسَ لَهَا مِن دُونِ ٱللَّهِ وَلِىٌّ وَلَا شَفِيعٌ وَإِن تَعْدِلْ كُلَّ عَدْلٍ لَّا يُؤْخَذْ مِنْهَآ ۗ أُو۟لَـٰٓئِكَ ٱلَّذِينَ أُبْسِلُوا۟ بِمَا كَسَبُوا۟ ۖ لَهُمْ شَرَابٌ مِّنْ حَمِيمٍ وَعَذَابٌ أَلِيمٌۢ بِمَا كَانُوا۟ يَكْفُرُونَ",
+      "وذر الذين اتخذوا دينهم لعبا ولهوا وغرتهم الحياة الدنيا وذكر به ان تبسل نفس بما كسبت ليس لها من دون الله ولي ولا شفيع وان تعدل كل عدل لا يؤخذ منها اولئك الذين ابسلوا بما كسبوا لهم شراب من حميم وعذاب اليم بما كانوا يكفرون"
+    ],
+    "englishData": "And leave those who take this faith ˹of Islam˺ as mere play and amusement and are deluded by ˹their˺ worldly life. Yet remind them by this ˹Quran˺, so no one should be ruined for their misdeeds. They will have no protector or intercessor other than Allah. Even if they were to offer every ˹possible˺ ransom, none will be accepted from them. Those are the ones who will be ruined for their misdeeds. They will have a boiling drink and painful punishment for their disbelief.",
+    "bengaliData": "আর তুমি পরিত্যাগ কর তাদেরকে, যারা নিজদের দীনকে গ্রহণ করেছে খেল-তামাশা রূপে এবং প্রতারিত করেছে যাদেরকে দুনিয়ার জীবন। আর তুমি কুরআন দ্বারা উপদেশ দাও, যাতে কোন ব্যক্তি তার কৃতকর্মের দরুন ধ্বংসের শিকার না হয়, তার জন্য আল্লাহ ছাড়া নেই কোন অভিভাবক এবং নেই কোন সুপারিশকারী। আর যদি সে সব ধরণের মুক্তিপণও দেয়, তার থেকে তা গ্রহণ করা হবে না। এরাই তারা, যারা ধ্বংসের শিকার হয়েছে তাদের কৃতকর্মের দরুন। তাদের জন্য রয়েছে ফুটন্ত পানীয় এবং বেদনাদায়ক আযাব, যেহেতু তারা কুফরী করত।",
+    "surahNumber": 6,
+    "ayahNumber": 70
+  },
+  {
+    "surahName": "Al-An'am",
+    "arabicData": [
+      "أُو۟لَـٰٓئِكَ ٱلَّذِينَ هَدَى ٱللَّهُ ۖ فَبِهُدَىٰهُمُ ٱقْتَدِهْ ۗ قُل لَّآ أَسْـَٔلُكُمْ عَلَيْهِ أَجْرًا ۖ إِنْ هُوَ إِلَّا ذِكْرَىٰ لِلْعَـٰلَمِينَ",
+      "اولئك الذين هدى الله فبهداهم اقتده قل لا اسالكم عليه اجرا ان هو الا ذكرى للعالمين"
+    ],
+    "englishData": "These ˹prophets˺ were ˹rightly˺ guided by Allah, so follow their guidance. Say, “I ask no reward of you for this ˹Quran˺—it is a reminder to the whole world.”",
+    "bengaliData": "এরাই তারা, যাদেরকে আল্লাহ হিদায়াত করেছেন। অতএব তাদের হিদায়াত তুমি অনুসরণ কর। বল, ‘আমি তোমাদের কাছে এর উপর কোন বিনিময় চাই না। এটা তো সৃষ্টিকুলের জন্য উপদেশমাত্র।",
+    "surahNumber": 6,
+    "ayahNumber": 90
+  },
+  {
+    "surahName": "Al-An'am",
+    "arabicData": [
+      "ذَٰلِكُمُ ٱللَّهُ رَبُّكُمْ ۖ لَآ إِلَـٰهَ إِلَّا هُوَ ۖ خَـٰلِقُ كُلِّ شَىْءٍ فَٱعْبُدُوهُ ۚ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ وَكِيلٌ",
+      "ذلكم الله ربكم لا اله الا هو خالق كل شيء فاعبدوه وهو على كل شيء وكيل"
+    ],
+    "englishData": "That is Allah—your Lord! There is no god ˹worthy of worship˺ except Him. ˹He is˺ the Creator of all things, so worship Him ˹alone˺. And He is the Maintainer of everything.",
+    "bengaliData": "তিনিই আল্লাহ, তোমাদের রব। তিনি ছাড়া কোন (সত্য) ইলাহ নেই। তিনি প্রতিটি জিনিসের স্রষ্টা। সুতরাং তোমরা তাঁর ইবাদাত কর। আর তিনি প্রতিটি জিনিসের উপর তত্ত্বাবধায়ক।",
+    "surahNumber": 6,
+    "ayahNumber": 102
+  },
+  {
+    "surahName": "Al-An'am",
+    "arabicData": [
+      "وَذَرُوا۟ ظَـٰهِرَ ٱلْإِثْمِ وَبَاطِنَهُۥٓ ۚ إِنَّ ٱلَّذِينَ يَكْسِبُونَ ٱلْإِثْمَ سَيُجْزَوْنَ بِمَا كَانُوا۟ يَقْتَرِفُونَ",
+      "وذروا ظاهر الاثم وباطنه ان الذين يكسبون الاثم سيجزون بما كانوا يقترفون"
+    ],
+    "englishData": "Shun all sin—open and secret. Indeed, those who commit sin will be punished for what they earn.",
+    "bengaliData": "আর তোমরা প্রকাশ্য ও গোপন পাপ ত্যাগ কর। নিশ্চয় যারা পাপ অর্জন করে, তাদেরকে অচিরেই প্রতিদান দেয়া হবে, তারা যা অর্জন করে তার বিনিময়ে।",
+    "surahNumber": 6,
+    "ayahNumber": 120
+  },
+  {
+    "surahName": "Al-A'raf",
+    "arabicData": [
+      "إِنَّ رَبَّكُمُ ٱللَّهُ ٱلَّذِى خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ فِى سِتَّةِ أَيَّامٍ ثُمَّ ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ يُغْشِى ٱلَّيْلَ ٱلنَّهَارَ يَطْلُبُهُۥ حَثِيثًا وَٱلشَّمْسَ وَٱلْقَمَرَ وَٱلنُّجُومَ مُسَخَّرَٰتٍۭ بِأَمْرِهِۦٓ ۗ أَلَا لَهُ ٱلْخَلْقُ وَٱلْأَمْرُ ۗ تَبَارَكَ ٱللَّهُ رَبُّ ٱلْعَـٰلَمِينَ",
+      "ان ربكم الله الذي خلق السماوات والارض في ستة ايام ثم استوى على العرش يغشي الليل النهار يطلبه حثيثا والشمس والقمر والنجوم مسخرات بامره الا له الخلق والامر تبارك الله رب العالمين"
+    ],
+    "englishData": "Indeed your Lord is Allah Who created the heavens and the earth in six Days, then established Himself on the Throne. He makes the day and night overlap in rapid succession. He created the sun, the moon, and the stars—all subjected by His command. The creation and the command belong to Him ˹alone˺. Blessed is Allah—Lord of all worlds!",
+    "bengaliData": "নিশ্চয় তোমাদের রব আসমানসমূহ ও যমীন ছয় দিনে সৃষ্টি করেছেন। অতঃপর আরশে উঠেছেন। তিনি রাতকে দ্বারা দিনকে ঢেকে দেন। প্রত্যেকটি একে অপরকে দ্রুত অনুসরণ করে। আর (সৃষ্টি করেছেন) সূর্য, চাঁদ ও তারকারাজী, যা তাঁর নির্দেশে নিয়োজিত। জেনে রাখ, সৃষ্টি ও নির্দেশ তাঁরই। আল্লাহ মহান, যিনি সকল সৃষ্টির রব।",
+    "surahNumber": 7,
+    "ayahNumber": 54
+  },
+  {
+    "surahName": "Al-A'raf",
+    "arabicData": [
+      "وَلَوْ أَنَّ أَهْلَ ٱلْقُرَىٰٓ ءَامَنُوا۟ وَٱتَّقَوْا۟ لَفَتَحْنَا عَلَيْهِم بَرَكَـٰتٍ مِّنَ ٱلسَّمَآءِ وَٱلْأَرْضِ وَلَـٰكِن كَذَّبُوا۟ فَأَخَذْنَـٰهُم بِمَا كَانُوا۟ يَكْسِبُونَ",
+      "ولو ان اهل القرى امنوا واتقوا لفتحنا عليهم بركات من السماء والارض ولكن كذبوا فاخذناهم بما كانوا يكسبون"
+    ],
+    "englishData": "Had the people of those societies been faithful and mindful ˹of Allah˺, We would have overwhelmed them with blessings from heaven and earth. But they disbelieved, so We seized them for what they used to commit.",
+    "bengaliData": "আর যদি জনপদসমূহের অধিবাসীরা ঈমান আনত এবং তাকওয়া অবলম্বন করত তাহলে আমি অবশ্যই আসমান ও যমীন থেকে বরকতসমূহ তাদের উপর খুলে দিতাম; কিন্তু তারা অস্বীকার করল। অতঃপর তারা যা অর্জন করত তার কারণে আমি তাদেরকে পাকড়াও করলাম।",
+    "surahNumber": 7,
+    "ayahNumber": 96
+  },
+  {
+    "surahName": "Al-A'raf",
+    "arabicData": [
+      "ثُمَّ بَعَثْنَا مِنۢ بَعْدِهِم مُّوسَىٰ بِـَٔايَـٰتِنَآ إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ فَظَلَمُوا۟ بِهَا ۖ فَٱنظُرْ كَيْفَ كَانَ عَـٰقِبَةُ ٱلْمُفْسِدِينَ",
+      "ثم بعثنا من بعدهم موسى باياتنا الى فرعون وملئه فظلموا بها فانظر كيف كان عاقبة المفسدين"
+    ],
+    "englishData": "Then after them We sent Moses with Our signs to Pharaoh and his chiefs, but they wrongfully rejected them. See what was the end of the corruptors!",
+    "bengaliData": "অতঃপর তাদের পরে আমি মূসাকে আমার আয়াতসমূহ সহকারে ফির‘আউন ও তার সভাসদদের কাছে পাঠিয়েছি। অতঃপর তারা এর সাথে যুলম করেছে। সুতরাং লক্ষ্য কর, ফাসাদকারীদের পরিণাম কীরূপ হয়েছিল।",
+    "surahNumber": 7,
+    "ayahNumber": 103
+  },
+  {
+    "surahName": "Al-A'raf",
+    "arabicData": [
+      "إِنَّ ٱلَّذِينَ ٱتَّخَذُوا۟ ٱلْعِجْلَ سَيَنَالُهُمْ غَضَبٌ مِّن رَّبِّهِمْ وَذِلَّةٌ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا ۚ وَكَذَٰلِكَ نَجْزِى ٱلْمُفْتَرِينَ",
+      "ان الذين اتخذوا العجل سينالهم غضب من ربهم وذلة في الحياة الدنيا وكذلك نجزي المفترين"
+    ],
+    "englishData": "Those who worshipped the calf will certainly be afflicted with Allah’s wrath as well as disgrace in the life of this world. This is how We reward those who invent falsehood.",
+    "bengaliData": "নিশ্চয় যারা গো বাছুরকে (উপাস্য হিসাবে) গ্রহণ করেছে, দুনিয়ার জীবনে তাদেরকে আক্রান্ত করবে তাদের রবের পক্ষ থেকে গযব ও লাঞ্ছনা। আর এভাবে আমি মিথ্যা রটনাকারীদের প্রতিফল দেই।",
+    "surahNumber": 7,
+    "ayahNumber": 152
+  },
+  {
+    "surahName": "Al-A'raf",
+    "arabicData": [
+      "وَٱلَّذِينَ عَمِلُوا۟ ٱلسَّيِّـَٔاتِ ثُمَّ تَابُوا۟ مِنۢ بَعْدِهَا وَءَامَنُوٓا۟ إِنَّ رَبَّكَ مِنۢ بَعْدِهَا لَغَفُورٌ رَّحِيمٌ",
+      "والذين عملوا السيئات ثم تابوا من بعدها وامنوا ان ربك من بعدها لغفور رحيم"
+    ],
+    "englishData": "But those who commit evil, then repent and become ˹true˺ believers, your Lord will certainly be All-Forgiving, Most-Merciful.",
+    "bengaliData": "আর যারা খারাপ কাজ করল, তারপর তাওবা করল এবং ঈমান আনল, নিশ্চয় তোমার রব এরপরও ক্ষমাশীল, পরম দয়ালু।",
+    "surahNumber": 7,
+    "ayahNumber": 153
+  },
+  {
+    "surahName": "Al-Anfal",
+    "arabicData": [
+      "كَدَأْبِ ءَالِ فِرْعَوْنَ ۙ وَٱلَّذِينَ مِن قَبْلِهِمْ ۚ كَذَّبُوا۟ بِـَٔايَـٰتِ رَبِّهِمْ فَأَهْلَكْنَـٰهُم بِذُنُوبِهِمْ وَأَغْرَقْنَآ ءَالَ فِرْعَوْنَ ۚ وَكُلٌّ كَانُوا۟ ظَـٰلِمِينَ",
+      "كداب ال فرعون والذين من قبلهم كذبوا بايات ربهم فاهلكناهم بذنوبهم واغرقنا ال فرعون وكل كانوا ظالمين"
+    ],
+    "englishData": "That was the case with Pharaoh’s people and those before them—they all rejected the signs of their Lord, so We destroyed them for their sins and drowned Pharaoh’s people. They were all wrongdoers.",
+    "bengaliData": "ফিরআউন বংশ ও তাদের পূর্বের লোকদের আচরণের মত তারা তাদের রবের আয়াতসমূহকে অস্বীকার করেছে, ফলে আমি তাদেরকে ধ্বংস করেছি তাদের পাপের কারণে এবং ফিরআউন বংশকে ডুবিয়েছি, আর তারা সকলেই ছিল যালিম।",
+    "surahNumber": 8,
+    "ayahNumber": 54
+  },
+  {
+    "surahName": "At-Tawbah",
+    "arabicData": [
+      "قُل لَّن يُصِيبَنَآ إِلَّا مَا كَتَبَ ٱللَّهُ لَنَا هُوَ مَوْلَىٰنَا ۚ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ",
+      "قل لن يصيبنا الا ما كتب الله لنا هو مولانا وعلى الله فليتوكل المؤمنون"
+    ],
+    "englishData": "Say, “Nothing will ever befall us except what Allah has destined for us. He is our Protector.” So in Allah let the believers put their trust.",
+    "bengaliData": "বল, ‘আমাদেরকে শুধু তা-ই আক্রান্ত করবে যা আল্লাহ আমাদের জন্য লিখে রেখেছেন। তিনিই আমাদের অভিভাবক, আর আল্লাহর উপরই যেন মুমিনরা তাওয়াক্কুল করে’।",
+    "surahNumber": 9,
+    "ayahNumber": 51
+  },
+  {
+    "surahName": "At-Tawbah",
+    "arabicData": [
+      "وَٱلْمُؤْمِنُونَ وَٱلْمُؤْمِنَـٰتُ بَعْضُهُمْ أَوْلِيَآءُ بَعْضٍ ۚ يَأْمُرُونَ بِٱلْمَعْرُوفِ وَيَنْهَوْنَ عَنِ ٱلْمُنكَرِ وَيُقِيمُونَ ٱلصَّلَوٰةَ وَيُؤْتُونَ ٱلزَّكَوٰةَ وَيُطِيعُونَ ٱللَّهَ وَرَسُولَهُۥٓ ۚ أُو۟لَـٰٓئِكَ سَيَرْحَمُهُمُ ٱللَّهُ ۗ إِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌ",
+      "والمؤمنون والمؤمنات بعضهم اولياء بعض يامرون بالمعروف وينهون عن المنكر ويقيمون الصلاة ويؤتون الزكاة ويطيعون الله ورسوله اولئك سيرحمهم الله ان الله عزيز حكيم"
+    ],
+    "englishData": "The believers, both men and women, are guardians of one another. They encourage good and forbid evil, establish prayer and pay alms-tax, and obey Allah and His Messenger. It is they who will be shown Allah’s mercy. Surely Allah is Almighty, All-Wise.",
+    "bengaliData": "আর মুমিন পুরুষ ও মুমিন নারীরা একে অপরের বন্ধু, তারা ভাল কাজের আদেশ দেয় আর অন্যায় কাজ থেকে নিষেধ করে, আর তারা সালাত কায়িম করে, যাকাত প্রদান করে এবং আল্লাহ ও তাঁর রাসূলের আনুগত্য করে। এদেরকে আল্লাহ শীঘ্রই দয়া করবেন, নিশ্চয় আল্লাহ পরাক্রমশালী, প্রজ্ঞাময়।",
+    "surahNumber": 9,
+    "ayahNumber": 71
+  },
+  {
+    "surahName": "At-Tawbah",
+    "arabicData": [
+      "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱتَّقُوا۟ ٱللَّهَ وَكُونُوا۟ مَعَ ٱلصَّـٰدِقِينَ",
+      "يا ايها الذين امنوا اتقوا الله وكونوا مع الصادقين"
+    ],
+    "englishData": "O  believers! Be mindful of Allah and be with the truthful.",
+    "bengaliData": "হে মুমিনগণ,তোমরা আল্লাহর তাকওয়া অবলম্বন কর এবং সত্যবাদীদের সাথে থাক।",
+    "surahNumber": 9,
+    "ayahNumber": 119
+  },
+  {
+    "surahName": "Yunus",
+    "arabicData": [
+      "ثُمَّ جَعَلْنَـٰكُمْ خَلَـٰٓئِفَ فِى ٱلْأَرْضِ مِنۢ بَعْدِهِمْ لِنَنظُرَ كَيْفَ تَعْمَلُونَ",
+      "ثم جعلناكم خلائف في الارض من بعدهم لننظر كيف تعملون"
+    ],
+    "englishData": "Then We made you their successors in the land to see how you would act.",
+    "bengaliData": "তারপর আমি তোমাদেরকে যমীনে তাদের পরে স্থলাভিষিক্ত করেছি, যাতে আমি দেখি তোমরা কেমন আমল কর।",
+    "surahNumber": 10,
+    "ayahNumber": 14
+  },
+  {
+    "surahName": "Yunus",
+    "arabicData": [
+      "قُلْ يَـٰٓأَيُّهَا ٱلنَّاسُ إِن كُنتُمْ فِى شَكٍّ مِّن دِينِى فَلَآ أَعْبُدُ ٱلَّذِينَ تَعْبُدُونَ مِن دُونِ ٱللَّهِ وَلَـٰكِنْ أَعْبُدُ ٱللَّهَ ٱلَّذِى يَتَوَفَّىٰكُمْ ۖ وَأُمِرْتُ أَنْ أَكُونَ مِنَ ٱلْمُؤْمِنِينَ",
+      "قل يا ايها الناس ان كنتم في شك من ديني فلا اعبد الذين تعبدون من دون الله ولكن اعبد الله الذي يتوفاكم وامرت ان اكون من المؤمنين"
+    ],
+    "englishData": "Say, ˹O Prophet,˺ “O humanity! If you are in doubt of my faith, then ˹know that˺ I do not worship those ˹idols˺ you worship instead of Allah. But I worship Allah, Who has the power to cause your death. And I have been commanded, ‘Be one of the believers,’",
+    "bengaliData": "বল, ‘হে মানুষ, তোমরা যদি আমার দীনের ব্যাপারে সন্দেহে থাক, তবে আল্লাহ ছাড়া তোমরা যার ইবাদাত কর আমি তার ইবাদাত করি না, বরং আমি ইবাদাত করি আল্লাহর, যিনি তোমাদের মৃত্যু দেন। আর আমি আদিষ্ট হয়েছি মুমিনদের অন্তর্ভুক্ত হওয়ার’।",
+    "surahNumber": 10,
+    "ayahNumber": 104
+  },
+  {
+    "surahName": "Yunus",
+    "arabicData": [
+      "وَأَنْ أَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا وَلَا تَكُونَنَّ مِنَ ٱلْمُشْرِكِينَ",
+      "وان اقم وجهك للدين حنيفا ولا تكونن من المشركين"
+    ],
+    "englishData": "And, ‘Be steadfast in faith in all uprightness, and do not be one of the polytheists,’",
+    "bengaliData": "আর (এ নির্দেশ) যে, ‘তুমি নিজেকে দীনের উপর প্রতিষ্ঠিত রাখ একনিষ্ঠভাবে এবং মুশরিকদের অন্তর্ভুক্ত হয়ো না’।",
+    "surahNumber": 10,
+    "ayahNumber": 105
+  },
+  {
+    "surahName": "Hud",
+    "arabicData": [
+      "وَلَمَّا جَآءَ أَمْرُنَا نَجَّيْنَا هُودًا وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ بِرَحْمَةٍ مِّنَّا وَنَجَّيْنَـٰهُم مِّنْ عَذَابٍ غَلِيظٍ",
+      "ولما جاء امرنا نجينا هودا والذين امنوا معه برحمة منا ونجيناهم من عذاب غليظ"
+    ],
+    "englishData": "When Our command came, We rescued Hûd and those who believed with him by a mercy from Us, saving them from a harsh torment.",
+    "bengaliData": "আর যখন আমার আদেশ আসল, আমি হূদকে ও যারা তার সাথে ঈমান এনেছিল তাদেরকে আমার পক্ষ থেকে রহমত দ্বারা রক্ষা করলাম এবং আমি কঠোর আযাব থেকে তাদেরকে নাজাত দিলাম।",
+    "surahNumber": 11,
+    "ayahNumber": 58
+  },
+  {
+    "surahName": "Hud",
+    "arabicData": [
+      "۞ وَأَمَّا ٱلَّذِينَ سُعِدُوا۟ فَفِى ٱلْجَنَّةِ خَـٰلِدِينَ فِيهَا مَا دَامَتِ ٱلسَّمَـٰوَٰتُ وَٱلْأَرْضُ إِلَّا مَا شَآءَ رَبُّكَ ۖ عَطَآءً غَيْرَ مَجْذُوذٍ",
+      "واما الذين سعدوا ففي الجنة خالدين فيها ما دامت السماوات والارض الا ما شاء ربك عطاء غير مجذوذ"
+    ],
+    "englishData": "And as for those destined to joy, they will be in Paradise, staying there forever, as long as the heavens and the earth will endure, except what your Lord wills—a ˹generous˺ giving, without end.",
+    "bengaliData": "আর যারা ভাগ্যবান হয়েছে, তারা জান্নাতে থাকবে, সেখানে তারা স্থায়ী হবে যতদিন পর্যন্ত আসমানসমূহ ও যমীন থাকবে, অবশ্য তোমার রব যা চান*, অব্যাহত প্রতিদানস্বরূপ। * অর্থাৎ আল্লাহ ইচ্ছা করলে তাদেরকে জান্নাত থেকে বের করে দিতে পারেন। তবে তিনি তা করবেন না। কেননা তিনি নিজেই তাদের স্থায়ীত্বের ঘোষণা দিয়েছেন।",
+    "surahNumber": 11,
+    "ayahNumber": 108
+  },
+  {
+    "surahName": "Yusuf",
+    "arabicData": [
+      "وَكَذَٰلِكَ يَجْتَبِيكَ رَبُّكَ وَيُعَلِّمُكَ مِن تَأْوِيلِ ٱلْأَحَادِيثِ وَيُتِمُّ نِعْمَتَهُۥ عَلَيْكَ وَعَلَىٰٓ ءَالِ يَعْقُوبَ كَمَآ أَتَمَّهَا عَلَىٰٓ أَبَوَيْكَ مِن قَبْلُ إِبْرَٰهِيمَ وَإِسْحَـٰقَ ۚ إِنَّ رَبَّكَ عَلِيمٌ حَكِيمٌ",
+      "وكذلك يجتبيك ربك ويعلمك من تاويل الاحاديث ويتم نعمته عليك وعلى ال يعقوب كما اتمها على ابويك من قبل ابراهيم واسحاق ان ربك عليم حكيم"
+    ],
+    "englishData": "And so will your Lord choose you ˹O Joseph˺, and teach you the interpretation of dreams, and perfect His favour upon you and the descendants of Jacob—˹just˺ as He once perfected it upon your forefathers, Abraham and Isaac. Surely your Lord is All-Knowing, All-Wise.”",
+    "bengaliData": "আর এভাবে তোমার রব তোমাকে মনোনীত করবেন এবং তোমাকে স্বপ্নের ব্যাখ্যা শিক্ষা দেবেন। আর তোমার উপর ও ইয়াকূবের পরিবারের উপর তাঁর নিআমত পূর্ণ করবেন যেভাবে তিনি তা পূর্বে পূর্ণ করেছিলেন তোমার পিতৃপুরুষ ইবরাহীম ও ইসহাকের উপর, নিশ্চয় তোমার রব সর্বজ্ঞ, প্রজ্ঞাময়।",
+    "surahNumber": 12,
+    "ayahNumber": 6
+  },
+  {
+    "surahName": "Yusuf",
+    "arabicData": [
+      "وَكَذَٰلِكَ مَكَّنَّا لِيُوسُفَ فِى ٱلْأَرْضِ يَتَبَوَّأُ مِنْهَا حَيْثُ يَشَآءُ ۚ نُصِيبُ بِرَحْمَتِنَا مَن نَّشَآءُ ۖ وَلَا نُضِيعُ أَجْرَ ٱلْمُحْسِنِينَ",
+      "وكذلك مكنا ليوسف في الارض يتبوا منها حيث يشاء نصيب برحمتنا من نشاء ولا نضيع اجر المحسنين"
+    ],
+    "englishData": "This is how We established Joseph in the land to settle wherever he pleased. We shower Our mercy on whoever We will, and We never discount the reward of the good-doers.",
+    "bengaliData": "আর এমনিভাবে আমি ইউসুফকে যমীনে কর্তৃত্ব প্রদান করেছি, সে তার যেখানে ইচ্ছা অবস্থান করতে পারত। আমি যাকে ইচ্ছা স্বীয় রহমত দান করি, আর আমি সৎকর্মশীলদের প্রতিদান বিনষ্ট করি না।",
+    "surahNumber": 12,
+    "ayahNumber": 56
+  },
+  {
+    "surahName": "Ar-Ra'd",
+    "arabicData": [
+      "۞ أَفَمَن يَعْلَمُ أَنَّمَآ أُنزِلَ إِلَيْكَ مِن رَّبِّكَ ٱلْحَقُّ كَمَنْ هُوَ أَعْمَىٰٓ ۚ إِنَّمَا يَتَذَكَّرُ أُو۟لُوا۟ ٱلْأَلْبَـٰبِ",
+      "افمن يعلم انما انزل اليك من ربك الحق كمن هو اعمى انما يتذكر اولو الالباب"
+    ],
+    "englishData": "Can the one who knows that your Lord’s revelation to you ˹O Prophet˺ is the truth be like the one who is blind? None will be mindful ˹of this˺ except people of reason.",
+    "bengaliData": "যে ব্যক্তি জানে তোমার রবের পক্ষ থেকে তোমার প্রতি যা নাযিল হয়েছে, তা সত্য, সে কি তার মত, যে অন্ধ? বুদ্ধিমানরাই শুধু উপদেশ গ্রহণ করে।",
+    "surahNumber": 13,
+    "ayahNumber": 19
+  },
+  {
+    "surahName": "Ibrahim",
+    "arabicData": [
+      "۞ أَلَمْ تَرَ إِلَى ٱلَّذِينَ بَدَّلُوا۟ نِعْمَتَ ٱللَّهِ كُفْرًا وَأَحَلُّوا۟ قَوْمَهُمْ دَارَ ٱلْبَوَارِ",
+      "الم تر الى الذين بدلوا نعمت الله كفرا واحلوا قومهم دار البوار"
+    ],
+    "englishData": "Have you not seen those ˹disbelievers˺ who meet Allah’s favours with ingratitude and lead their own people to their doom?",
+    "bengaliData": "তুমি কি তাদেরকে দেখ না, যারা আল্লাহর নিআমতকে কুফরী দ্বারা পরিবর্তন করেছে এবং তাদের কওমকে ধ্বংসের ঘরে নামিয়ে দিয়েছে?",
+    "surahNumber": 14,
+    "ayahNumber": 28
+  },
+  {
+    "surahName": "Ibrahim",
+    "arabicData": [
+      "رَبِّ ٱجْعَلْنِى مُقِيمَ ٱلصَّلَوٰةِ وَمِن ذُرِّيَّتِى ۚ رَبَّنَا وَتَقَبَّلْ دُعَآءِ",
+      "رب اجعلني مقيم الصلاة ومن ذريتي ربنا وتقبل دعاء"
+    ],
+    "englishData": "My Lord! Make me and those ˹believers˺ of my descendants keep up prayer. Our Lord! Accept my prayers.",
+    "bengaliData": "‘হে আমার রব, আমাকে সালাত কায়েমকারী বানান এবং আমার বংশধরদের মধ্য থেকেও, হে আমাদের রব, আর আমার দো‘আ কবূল করুন’।",
+    "surahNumber": 14,
+    "ayahNumber": 40
+  },
+  {
+    "surahName": "Al-Hijr",
+    "arabicData": [
+      "وَإِنَّ رَبَّكَ هُوَ يَحْشُرُهُمْ ۚ إِنَّهُۥ حَكِيمٌ عَلِيمٌ",
+      "وان ربك هو يحشرهم انه حكيم عليم"
+    ],
+    "englishData": "Surely your Lord ˹alone˺ will gather them together ˹for judgment˺. He is truly All-Wise, All-Knowing.",
+    "bengaliData": "আর নিশ্চয় তোমার রব তাদেরকে একত্র করবেন। নিশ্চয় তিনি প্রজ্ঞাময় ও সর্বজ্ঞানী।",
+    "surahNumber": 15,
+    "ayahNumber": 25
+  },
+  {
+    "surahName": "An-Nahl",
+    "arabicData": [
+      "هُوَ ٱلَّذِىٓ أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءً ۖ لَّكُم مِّنْهُ شَرَابٌ وَمِنْهُ شَجَرٌ فِيهِ تُسِيمُونَ",
+      "هو الذي انزل من السماء ماء لكم منه شراب ومنه شجر فيه تسيمون"
+    ],
+    "englishData": "He is the One Who sends down rain from the sky, from which you drink and by which plants grow for your cattle to graze.",
+    "bengaliData": "তিনিই সে সত্তা, যিনি আসমান থেকে পানি বর্ষণ করেন, যাতে রয়েছে তোমাদের জন্য পানীয় এবং তা থেকে হয় উদ্ভিত, যাতে তোমরা জন্তু চরাও।",
+    "surahNumber": 16,
+    "ayahNumber": 10
+  },
+  {
+    "surahName": "Al-Isra",
+    "arabicData": [
+      "وَمَنْ أَرَادَ ٱلْـَٔاخِرَةَ وَسَعَىٰ لَهَا سَعْيَهَا وَهُوَ مُؤْمِنٌ فَأُو۟لَـٰٓئِكَ كَانَ سَعْيُهُم مَّشْكُورًا",
+      "ومن اراد الاخرة وسعى لها سعيها وهو مؤمن فاولئك كان سعيهم مشكورا"
+    ],
+    "englishData": "But whoever desires the Hereafter and strives for it accordingly, and is a ˹true˺ believer, it is they whose striving will be appreciated.",
+    "bengaliData": "আর যে আখিরাত চায় এবং তার জন্য যথাযথ চেষ্টা করে মুমিন অবস্থায়, তাদের চেষ্টা হবে পুরস্কারযোগ্য।",
+    "surahNumber": 17,
+    "ayahNumber": 19
+  },
+  {
+    "surahName": "Al-Isra",
+    "arabicData": [
+      "وَمَن يَهْدِ ٱللَّهُ فَهُوَ ٱلْمُهْتَدِ ۖ وَمَن يُضْلِلْ فَلَن تَجِدَ لَهُمْ أَوْلِيَآءَ مِن دُونِهِۦ ۖ وَنَحْشُرُهُمْ يَوْمَ ٱلْقِيَـٰمَةِ عَلَىٰ وُجُوهِهِمْ عُمْيًا وَبُكْمًا وَصُمًّا ۖ مَّأْوَىٰهُمْ جَهَنَّمُ ۖ كُلَّمَا خَبَتْ زِدْنَـٰهُمْ سَعِيرًا",
+      "ومن يهد الله فهو المهتد ومن يضلل فلن تجد لهم اولياء من دونه ونحشرهم يوم القيامة على وجوههم عميا وبكما وصما ماواهم جهنم كلما خبت زدناهم سعيرا"
+    ],
+    "englishData": "Whoever Allah guides is truly guided. And whoever He leaves to stray, you will find no guardians for them besides Him. And We will drag them on their faces on the Day of Judgment—deaf, dumb, and blind. Hell will be their home. Whenever it dies down, We will flare it up for them.",
+    "bengaliData": "আর আল্লাহ যাকে হিদায়াত দান করেন সে-ই হিদায়াতপ্রাপ্ত এবং যাকে তিনি পথহারা করেন তুমি কখনো তাদের জন্য তাঁকে ছাড়া অভিভাবক পাবে না। আর আমি কিয়ামতের দিনে তাদেরকে একত্র করব উপুড় করে, অন্ধ, মূক ও বধির অবস্থায়। তাদের আশ্রয়স্থল জাহান্নাম; যখনই তা নিস্তেজ হবে তখনই আমি তাদের জন্য আগুন বাড়িয়ে দেব।",
+    "surahNumber": 17,
+    "ayahNumber": 97
+  },
+  {
+    "surahName": "Al-Anbya",
+    "arabicData": [
+      "وَمَآ أَرْسَلْنَا مِن قَبْلِكَ مِن رَّسُولٍ إِلَّا نُوحِىٓ إِلَيْهِ أَنَّهُۥ لَآ إِلَـٰهَ إِلَّآ أَنَا۠ فَٱعْبُدُونِ",
+      "وما ارسلنا من قبلك من رسول الا نوحي اليه انه لا اله الا انا فاعبدون"
+    ],
+    "englishData": "We never sent a messenger before you ˹O Prophet˺ without revealing to him: “There is no god ˹worthy of worship˺ except Me, so worship Me ˹alone˺.”",
+    "bengaliData": "আর তোমার পূর্বে এমন কোন রাসূল আমি পাঠাইনি যার প্রতি আমি এই ওহী নাযিল করিনি যে, ‘আমি ছাড়া কোন (সত্য) ইলাহ নেই; সুতরাং তোমরা আমার ইবাদাত কর।’",
+    "surahNumber": 21,
+    "ayahNumber": 25
+  },
+  {
+    "surahName": "Al-Hajj",
+    "arabicData": [
+      "حُنَفَآءَ لِلَّهِ غَيْرَ مُشْرِكِينَ بِهِۦ ۚ وَمَن يُشْرِكْ بِٱللَّهِ فَكَأَنَّمَا خَرَّ مِنَ ٱلسَّمَآءِ فَتَخْطَفُهُ ٱلطَّيْرُ أَوْ تَهْوِى بِهِ ٱلرِّيحُ فِى مَكَانٍ سَحِيقٍ",
+      "حنفاء لله غير مشركين به ومن يشرك بالله فكانما خر من السماء فتخطفه الطير او تهوي به الريح في مكان سحيق"
+    ],
+    "englishData": "Be upright ˹in devotion˺ to Allah, associating none with Him ˹in worship˺. For whoever associates ˹others˺ with Allah is like someone who has fallen from the sky and is either snatched away by birds or swept by the wind to a remote place.",
+    "bengaliData": "আল্লাহর জন্য একনিষ্ঠ হয়ে এবং তাঁর সাথে কাউকে শরীক না করে। আর যে আল্লাহর সাথে শরীক করে, সে যেন আকাশ থেকে পড়ল। অতঃপর পাখি তাকে ছোঁ মেরে নিয়ে গেল কিম্বা বাতাস তাকে দূরের কোন জায়গায় নিক্ষেপ করল।",
+    "surahNumber": 22,
+    "ayahNumber": 31
+  },
+  {
+    "surahName": "Al-Mu'minun",
+    "arabicData": [
+      "وَهُوَ ٱلَّذِىٓ أَنشَأَ لَكُمُ ٱلسَّمْعَ وَٱلْأَبْصَـٰرَ وَٱلْأَفْـِٔدَةَ ۚ قَلِيلًا مَّا تَشْكُرُونَ",
+      "وهو الذي انشا لكم السمع والابصار والافئدة قليلا ما تشكرون"
+    ],
+    "englishData": "He is the One Who created for you hearing, sight, and intellect. ˹Yet˺ you hardly give any thanks.",
+    "bengaliData": "আর তিনিই তোমাদের জন্য কান, চোখসমূহ ও অন্তরসমূহ সৃষ্টি করেছেন; তোমরা কমই কৃতজ্ঞতা প্রকাশ কর।",
+    "surahNumber": 23,
+    "ayahNumber": 78
+  },
+  {
+    "surahName": "An-Nur",
+    "arabicData": [
+      "وَمَن يُطِعِ ٱللَّهَ وَرَسُولَهُۥ وَيَخْشَ ٱللَّهَ وَيَتَّقْهِ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْفَآئِزُونَ",
+      "ومن يطع الله ورسوله ويخش الله ويتقه فاولئك هم الفائزون"
+    ],
+    "englishData": "For whoever obeys Allah and His Messenger, and fears Allah and is mindful of Him, then it is they who will ˹truly˺ triumph.",
+    "bengaliData": "আর যে কেউ আল্লাহ ও তাঁর রাসূলের আনুগত্য করে, আল্লাহকে ভয় করে এবং তাঁর তাকওয়া অবলম্বন করে, তারাই কৃতকার্য।",
+    "surahNumber": 24,
+    "ayahNumber": 52
+  },
+  {
+    "surahName": "Al-Furqan",
+    "arabicData": [
+      "وَكَذَٰلِكَ جَعَلْنَا لِكُلِّ نَبِىٍّ عَدُوًّا مِّنَ ٱلْمُجْرِمِينَ ۗ وَكَفَىٰ بِرَبِّكَ هَادِيًا وَنَصِيرًا",
+      "وكذلك جعلنا لكل نبي عدوا من المجرمين وكفى بربك هاديا ونصيرا"
+    ],
+    "englishData": "Similarly, We made enemies for every prophet from among the wicked, but sufficient is your Lord as a Guide and Helper.",
+    "bengaliData": "আর এভাবেই আমি প্রত্যেক নবীর জন্য অপরাধীদের মধ্য থেকে শত্রু বানিয়েছি। আর পথপ্রদর্শক ও সাহায্যকারী হিসেবে তোমার রবই যথেষ্ট।",
+    "surahNumber": 25,
+    "ayahNumber": 31
+  },
+  {
+    "surahName": "Al-Furqan",
+    "arabicData": [
+      "وَمَآ أَرْسَلْنَـٰكَ إِلَّا مُبَشِّرًا وَنَذِيرًا",
+      "وما ارسلناك الا مبشرا ونذيرا"
+    ],
+    "englishData": "And We have sent you ˹O Prophet˺ only as a deliverer of good news and a warner.",
+    "bengaliData": "আর আমি তো তোমাকে শুধুমাত্র সুংসবাদদাতা ও সতর্ককারী রূপেই প্রেরণ করেছি।",
+    "surahNumber": 25,
+    "ayahNumber": 56
+  },
+  {
+    "surahName": "Al-Furqan",
+    "arabicData": [
+      "وَهُوَ ٱلَّذِى جَعَلَ ٱلَّيْلَ وَٱلنَّهَارَ خِلْفَةً لِّمَنْ أَرَادَ أَن يَذَّكَّرَ أَوْ أَرَادَ شُكُورًا",
+      "وهو الذي جعل الليل والنهار خلفة لمن اراد ان يذكر او اراد شكورا"
+    ],
+    "englishData": "And He is the One Who causes the day and the night to alternate, ˹as a sign˺ for whoever desires to be mindful or to be grateful.",
+    "bengaliData": "আর তিনি দিবা-রাত্রিকে পরস্পরের অনুগামী করেছেন। যে উপদেশ গ্রহণ করতে চায় অথবা কৃতজ্ঞ হতে চায় তার জন্য।",
+    "surahNumber": 25,
+    "ayahNumber": 62
+  },
+  {
+    "surahName": "Al-Furqan",
+    "arabicData": [
+      "وَعِبَادُ ٱلرَّحْمَـٰنِ ٱلَّذِينَ يَمْشُونَ عَلَى ٱلْأَرْضِ هَوْنًا وَإِذَا خَاطَبَهُمُ ٱلْجَـٰهِلُونَ قَالُوا۟ سَلَـٰمًا",
+      "وعباد الرحمن الذين يمشون على الارض هونا واذا خاطبهم الجاهلون قالوا سلاما"
+    ],
+    "englishData": "The ˹true˺ servants of the Most Compassionate are those who walk on the earth humbly, and when the foolish address them ˹improperly˺, they only respond with peace.",
+    "bengaliData": "আর রহমানের বান্দা তারাই যারা পৃথিবীতে নম্রভাবে চলাফেরা করে এবং অজ্ঞ লোকেরা যখন তাদেরকে সম্বোধন করে তখন তারা বলে ‘সালাম’।",
+    "surahNumber": 25,
+    "ayahNumber": 63
+  },
+  {
+    "surahName": "Ash-Shu'ara",
+    "arabicData": [
+      "ٱلَّذِى خَلَقَنِى فَهُوَ يَهْدِينِ",
+      "الذي خلقني فهو يهدين"
+    ],
+    "englishData": "˹He is˺ the One Who created me, and He ˹alone˺ guides me.",
+    "bengaliData": "‘যিনি আমাকে সৃষ্টি করেছেন। অতঃপর তিনিই আমাকে হিদায়াত দিয়েছেন।’",
+    "surahNumber": 26,
+    "ayahNumber": 78
+  },
+  {
+    "surahName": "An-Naml",
+    "arabicData": [
+      "أَمَّن يَهْدِيكُمْ فِى ظُلُمَـٰتِ ٱلْبَرِّ وَٱلْبَحْرِ وَمَن يُرْسِلُ ٱلرِّيَـٰحَ بُشْرًۢا بَيْنَ يَدَىْ رَحْمَتِهِۦٓ ۗ أَءِلَـٰهٌ مَّعَ ٱللَّهِ ۚ تَعَـٰلَى ٱللَّهُ عَمَّا يُشْرِكُونَ",
+      "امن يهديكم في ظلمات البر والبحر ومن يرسل الرياح بشرا بين يدي رحمته االه مع الله تعالى الله عما يشركون"
+    ],
+    "englishData": "Or ˹ask them,˺ “Who guides you in the darkness of the land and sea, and sends the winds ushering in His mercy? Is it another god besides Allah? Exalted is Allah above what they associate ˹with Him˺!",
+    "bengaliData": "বরং তিনি, যিনি তোমাদেরকে স্থলে ও সমুদ্রের অন্ধকারে পথ দেখান এবং যিনি স্বীয় রহমতের প্রাক্কালে সুসংবাদবাহী বাতাস প্রেরণ করেন। আল্লাহর সাথে কি অন্য কোন ইলাহ আছে? তারা যা কিছু শরীক করে আল্লাহ তা থেকে ঊর্ধ্বে।",
+    "surahNumber": 27,
+    "ayahNumber": 63
+  },
+  {
+    "surahName": "An-Naml",
+    "arabicData": [
+      "وَتَرَى ٱلْجِبَالَ تَحْسَبُهَا جَامِدَةً وَهِىَ تَمُرُّ مَرَّ ٱلسَّحَابِ ۚ صُنْعَ ٱللَّهِ ٱلَّذِىٓ أَتْقَنَ كُلَّ شَىْءٍ ۚ إِنَّهُۥ خَبِيرٌۢ بِمَا تَفْعَلُونَ",
+      "وترى الجبال تحسبها جامدة وهي تمر مر السحاب صنع الله الذي اتقن كل شيء انه خبير بما تفعلون"
+    ],
+    "englishData": "Now you see the mountains, thinking they are firmly fixed, but they are travelling ˹just˺ like clouds. ˹That is˺ the design of Allah, Who has perfected everything. Surely He is All-Aware of what you do.",
+    "bengaliData": "আর তুমি পাহাড়সমূকে দেখছ, সেগুলোকে তুমি স্থির মনে করছ। অথচ তা মেঘমালার ন্যায় চলতে থাকবে। (এটা) আল্লাহর কাজ, যিনি সব কিছু দৃঢ়ভাবে করেছেন। নিশ্চয় তোমরা যা কর, তিনি সে সম্পর্কে বিশেষভাবে অবহিত।",
+    "surahNumber": 27,
+    "ayahNumber": 88
+  },
+  {
+    "surahName": "Al-Qasas",
+    "arabicData": [
+      "وَمَآ أُوتِيتُم مِّن شَىْءٍ فَمَتَـٰعُ ٱلْحَيَوٰةِ ٱلدُّنْيَا وَزِينَتُهَا ۚ وَمَا عِندَ ٱللَّهِ خَيْرٌ وَأَبْقَىٰٓ ۚ أَفَلَا تَعْقِلُونَ",
+      "وما اوتيتم من شيء فمتاع الحياة الدنيا وزينتها وما عند الله خير وابقى افلا تعقلون"
+    ],
+    "englishData": "Whatever ˹pleasure˺ you have been given is no more than ˹a fleeting˺ enjoyment and adornment of this worldly life. But what is with Allah is far better and more lasting. Will you not then understand?",
+    "bengaliData": "আর তোমাদেরকে যা কিছু দেয়া হয়েছে তা দুনিয়ার জীবনের ভোগ ও সৌন্দর্য মাত্র। আর আল্লাহর কাছে যা আছে তাই উত্তম ও স্থায়ী। তোমরা কি বুঝবে না?",
+    "surahNumber": 28,
+    "ayahNumber": 60
+  },
+  {
+    "surahName": "Al-'Ankabut",
+    "arabicData": [
+      "كُلُّ نَفْسٍ ذَآئِقَةُ ٱلْمَوْتِ ۖ ثُمَّ إِلَيْنَا تُرْجَعُونَ",
+      "كل نفس ذائقة الموت ثم الينا ترجعون"
+    ],
+    "englishData": "Every soul will taste death, then to Us you will ˹all˺ be returned.",
+    "bengaliData": "প্রতিটি প্রাণ মৃত্যুর স্বাদ আস্বাদন করবে, তারপর আমার কাছেই তোমরা প্রত্যাবর্তিত হবে।",
+    "surahNumber": 29,
+    "ayahNumber": 57
+  },
+  {
+    "surahName": "Ar-Rum",
+    "arabicData": [
+      "وَمِنْ ءَايَـٰتِهِۦٓ أَن يُرْسِلَ ٱلرِّيَاحَ مُبَشِّرَٰتٍ وَلِيُذِيقَكُم مِّن رَّحْمَتِهِۦ وَلِتَجْرِىَ ٱلْفُلْكُ بِأَمْرِهِۦ وَلِتَبْتَغُوا۟ مِن فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ",
+      "ومن اياته ان يرسل الرياح مبشرات وليذيقكم من رحمته ولتجري الفلك بامره ولتبتغوا من فضله ولعلكم تشكرون"
+    ],
+    "englishData": "And one of His signs is that He sends the winds, ushering in good news ˹of rain˺ so that He may give you a taste of His mercy, and that ships may sail by His command, and that you may seek His bounty, and perhaps you will be grateful.",
+    "bengaliData": "আর তাঁর নিদর্শনসমূহের মধ্যে রয়েছে, তিনি বাতাস প্রেরণ করেন [বৃষ্টির] সুসংবাদ বহনকারী হিসেবে এবং যাতে তিনি তোমাদেরকে তাঁর রহমত আস্বাদন করাতে পারেন এবং যাতে তাঁর নির্দেশে নৌযানগুলো চলাচল করে, আর যাতে তোমরা তাঁর অনুগ্রহ থেকে কিছু সন্ধান করতে পার। আর যাতে তোমরা কৃতজ্ঞ হও।",
+    "surahNumber": 30,
+    "ayahNumber": 46
+  },
+  {
+    "surahName": "Luqman",
+    "arabicData": [
+      "۞ وَمَن يُسْلِمْ وَجْهَهُۥٓ إِلَى ٱللَّهِ وَهُوَ مُحْسِنٌ فَقَدِ ٱسْتَمْسَكَ بِٱلْعُرْوَةِ ٱلْوُثْقَىٰ ۗ وَإِلَى ٱللَّهِ عَـٰقِبَةُ ٱلْأُمُورِ",
+      "ومن يسلم وجهه الى الله وهو محسن فقد استمسك بالعروة الوثقى والى الله عاقبة الامور"
+    ],
+    "englishData": "Whoever fully submits themselves to Allah and is a good-doer, they have certainly grasped the firmest hand-hold. And with Allah rests the outcome of ˹all˺ affairs.",
+    "bengaliData": "আর যে ব্যক্তি একনিষ্ঠ ও বিশুদ্ধচিত্তে আল্লাহর কাছে নিজকে সমর্পণ করে, সে তো শক্ত রশি আঁকড়ে ধরে। আর সকল বিষয়ের পরিণাম আল্লাহরই কাছে।",
+    "surahNumber": 31,
+    "ayahNumber": 22
+  },
+  {
+    "surahName": "As-Sajdah",
+    "arabicData": [
+      "أَفَمَن كَانَ مُؤْمِنًا كَمَن كَانَ فَاسِقًا ۚ لَّا يَسْتَوُۥنَ",
+      "افمن كان مؤمنا كمن كان فاسقا لا يستوون"
+    ],
+    "englishData": "Is the one who is a believer equal ˹before Allah˺ to the one who is rebellious? They are not equal!",
+    "bengaliData": "যে ব্যক্তি মুমিন সে কি ফাসিক ব্যক্তির মত? তারা সমান নয়।",
+    "surahNumber": 32,
+    "ayahNumber": 18
+  },
+  {
+    "surahName": "As-Sajdah",
+    "arabicData": [
+      "أَمَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ فَلَهُمْ جَنَّـٰتُ ٱلْمَأْوَىٰ نُزُلًۢا بِمَا كَانُوا۟ يَعْمَلُونَ",
+      "اما الذين امنوا وعملوا الصالحات فلهم جنات الماوى نزلا بما كانوا يعملون"
+    ],
+    "englishData": "As for those who believe and do good, they will have the Gardens of ˹Eternal˺ Residence—as an accommodation for what they used to do.",
+    "bengaliData": "যারা ঈমান আনে ও সৎকর্ম করে, তাদের বাসস্থান হবে জান্নাত, তারা যা করত তার আপ্যায়ন হিসেবে।",
+    "surahNumber": 32,
+    "ayahNumber": 19
+  },
+  {
+    "surahName": "As-Sajdah",
+    "arabicData": [
+      "وَأَمَّا ٱلَّذِينَ فَسَقُوا۟ فَمَأْوَىٰهُمُ ٱلنَّارُ ۖ كُلَّمَآ أَرَادُوٓا۟ أَن يَخْرُجُوا۟ مِنْهَآ أُعِيدُوا۟ فِيهَا وَقِيلَ لَهُمْ ذُوقُوا۟ عَذَابَ ٱلنَّارِ ٱلَّذِى كُنتُم بِهِۦ تُكَذِّبُونَ",
+      "واما الذين فسقوا فماواهم النار كلما ارادوا ان يخرجوا منها اعيدوا فيها وقيل لهم ذوقوا عذاب النار الذي كنتم به تكذبون"
+    ],
+    "englishData": "But as for those who are rebellious, the Fire will be their home. Whenever they try to escape from it, they will be forced back into it, and will be told, “Taste the Fire’s torment, which you used to deny.”",
+    "bengaliData": "আর যারা পাপকাজ করে, তাদের বাসস্থান হবে আগুন; যখনই তারা তা থেকে বের হতে চাইবে, তাদেরকে তাতেই ফিরিয়ে দেয়া হবে এবং তাদেরকে বলা হবে, ‘তোমরা আগুনের আযাব আস্বাদন কর, যাকে তোমরা অস্বীকার করতে।",
+    "surahNumber": 32,
+    "ayahNumber": 20
+  },
+  {
+    "surahName": "Al-Ahzab",
+    "arabicData": [
+      "قُلْ مَن ذَا ٱلَّذِى يَعْصِمُكُم مِّنَ ٱللَّهِ إِنْ أَرَادَ بِكُمْ سُوٓءًا أَوْ أَرَادَ بِكُمْ رَحْمَةً ۚ وَلَا يَجِدُونَ لَهُم مِّن دُونِ ٱللَّهِ وَلِيًّا وَلَا نَصِيرًا",
+      "قل من ذا الذي يعصمكم من الله ان اراد بكم سوءا او اراد بكم رحمة ولا يجدون لهم من دون الله وليا ولا نصيرا"
+    ],
+    "englishData": "Ask ˹them, O  Prophet˺, “Who can put you out of Allah’s reach if He intends to harm you or show you mercy?” They can never find any protector or helper besides Allah.",
+    "bengaliData": "বল, ‘আল্লাহ থেকে কে তোমাদেরকে রক্ষা করবে যদি তিনি তোমাদের কোন ক্ষতি করতে চান? অথবা তিনি তোমাদের রহমত দান করতে ইচ্ছা করেন (কে তোমাদের ক্ষতি করবে)’। আর তারা আল্লাহ ছাড়া তাদের কোন অভিভাবক ও সাহায্যকারী পাবে না।",
+    "surahNumber": 33,
+    "ayahNumber": 17
+  },
+  {
+    "surahName": "Saba",
+    "arabicData": [
+      "قُلْ إِنَّ رَبِّى يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ",
+      "قل ان ربي يبسط الرزق لمن يشاء ويقدر ولكن اكثر الناس لا يعلمون"
+    ],
+    "englishData": "Say, ˹O Prophet,˺ “Surely ˹it is˺ my Lord ˹Who˺ gives abundant or limited provisions to whoever He wills. But most people do not know.”",
+    "bengaliData": "বল, ‘আমার রব যার জন্য ইচ্ছা রিয্ক প্রশস্ত করেন অথবা সঙ্কুচিত করেন। কিন্তু অধিকাংশ লোক তা জানে না।’",
+    "surahNumber": 34,
+    "ayahNumber": 36
+  },
+  {
+    "surahName": "Fatir",
+    "arabicData": [
+      "قُلْ أَرَءَيْتُمْ شُرَكَآءَكُمُ ٱلَّذِينَ تَدْعُونَ مِن دُونِ ٱللَّهِ أَرُونِى مَاذَا خَلَقُوا۟ مِنَ ٱلْأَرْضِ أَمْ لَهُمْ شِرْكٌ فِى ٱلسَّمَـٰوَٰتِ أَمْ ءَاتَيْنَـٰهُمْ كِتَـٰبًا فَهُمْ عَلَىٰ بَيِّنَتٍ مِّنْهُ ۚ بَلْ إِن يَعِدُ ٱلظَّـٰلِمُونَ بَعْضُهُم بَعْضًا إِلَّا غُرُورًا",
+      "قل ارايتم شركاءكم الذين تدعون من دون الله اروني ماذا خلقوا من الارض ام لهم شرك في السماوات ام اتيناهم كتابا فهم على بينت منه بل ان يعد الظالمون بعضهم بعضا الا غرورا"
+    ],
+    "englishData": "Ask ˹them, O  Prophet˺, “Have you considered your associate-gods which you invoke besides Allah? Show me what they have created on earth! Or do they have a share in ˹the creation of˺ the heavens? Or have We given the polytheists a Book, which serves as a clear proof for them? In fact, the wrongdoers promise each other nothing but delusion.”",
+    "bengaliData": "বল, ‘তোমরা আল্লাহর পরিবর্তে যাদেরকে ডাক, সেই শরীকদের কথা ভেবে দেখেছ কি? আমাকে দেখাও তারা যমীনের কী সৃষ্টি করেছে? অথবা আসমানসমূহের মধ্যে কি তাদের কোন অংশীদারিত্ব আছে? অথবা আমি কি তাদেরকে কোন কিতাব দিয়েছি, যার কোন সুস্পষ্ট প্রমাণের উপর তারা আছে’? বরং যালিমরা একে অপরকে কেবল প্রতারণামূলক ওয়াদাই দিয়ে থাকে।",
+    "surahNumber": 35,
+    "ayahNumber": 40
+  },
+  {
+    "surahName": "Ya-Sin",
+    "arabicData": [
+      "يَـٰحَسْرَةً عَلَى ٱلْعِبَادِ ۚ مَا يَأْتِيهِم مِّن رَّسُولٍ إِلَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+      "يا حسرة على العباد ما ياتيهم من رسول الا كانوا به يستهزئون"
+    ],
+    "englishData": "Oh pity, such beings! No messenger ever came to them without being mocked.",
+    "bengaliData": "আফসোস, বান্দাদের জন্য! যখনই তাদের কাছে কোন রাসূল এসেছে তখনই তারা তাকে নিয়ে ঠাট্টা-বিদ্রূপ করেছে।",
+    "surahNumber": 36,
+    "ayahNumber": 30
+  },
+  {
+    "surahName": "Ya-Sin",
+    "arabicData": [
+      "لِيَأْكُلُوا۟ مِن ثَمَرِهِۦ وَمَا عَمِلَتْهُ أَيْدِيهِمْ ۖ أَفَلَا يَشْكُرُونَ",
+      "لياكلوا من ثمره وما عملته ايديهم افلا يشكرون"
+    ],
+    "englishData": "So that they may eat from its fruit, which they had no hand in making. Will they not then give thanks?",
+    "bengaliData": "যাতে তারা তার ফল খেতে পারে, অথচ তাদের হাত তা বানায়নি। তবুও কি তারা কৃতজ্ঞতা প্রকাশ করবে না?",
+    "surahNumber": 36,
+    "ayahNumber": 35
+  },
+  {
+    "surahName": "Az-Zumar",
+    "arabicData": [
+      "وَلَقَدْ ضَرَبْنَا لِلنَّاسِ فِى هَـٰذَا ٱلْقُرْءَانِ مِن كُلِّ مَثَلٍ لَّعَلَّهُمْ يَتَذَكَّرُونَ",
+      "ولقد ضربنا للناس في هذا القران من كل مثل لعلهم يتذكرون"
+    ],
+    "englishData": "We have certainly set forth every ˹kind of˺ lesson for people in this Quran, so perhaps they will be mindful.",
+    "bengaliData": "আর নিশ্চয় আমি এই কুরআনে মানুষের জন্য প্রত্যেক প্রকার দৃষ্টান্ত বর্ণনা করেছি, যাতে তারা শিক্ষা গ্রহণ করে।",
+    "surahNumber": 39,
+    "ayahNumber": 27
+  },
+  {
+    "surahName": "Ghafir",
+    "arabicData": [
+      "إِنَّ ٱلَّذِينَ كَفَرُوا۟ يُنَادَوْنَ لَمَقْتُ ٱللَّهِ أَكْبَرُ مِن مَّقْتِكُمْ أَنفُسَكُمْ إِذْ تُدْعَوْنَ إِلَى ٱلْإِيمَـٰنِ فَتَكْفُرُونَ",
+      "ان الذين كفروا ينادون لمقت الله اكبر من مقتكم انفسكم اذ تدعون الى الايمان فتكفرون"
+    ],
+    "englishData": "Indeed, it will be announced to the disbelievers, “Allah’s contempt for you—as you disbelieved when invited to belief—was far worse than your contempt for one another ˹Today˺.”",
+    "bengaliData": "নিশ্চয় যারা কুফরী করেছে তাদেরকে উচ্চকণ্ঠে বলা হবে; ‘তোমাদের নিজদের প্রতি তোমাদের (আজকের) এ অসন্তোষ অপেক্ষা অবশ্যই আল্লাহর অসন্তোষ অধিকতর ছিল, যখন তোমাদেরকে ঈমানের প্রতি আহবান করা হয়েছিল তারপর তোমরা তা অস্বীকার করেছিলে’।",
+    "surahNumber": 40,
+    "ayahNumber": 10
+  },
+  {
+    "surahName": "Ghafir",
+    "arabicData": [
+      "كَذَٰلِكَ يُؤْفَكُ ٱلَّذِينَ كَانُوا۟ بِـَٔايَـٰتِ ٱللَّهِ يَجْحَدُونَ",
+      "كذلك يؤفك الذين كانوا بايات الله يجحدون"
+    ],
+    "englishData": "This is how those who used to reject Allah’s signs were ˹also˺ deluded.",
+    "bengaliData": "যারা আল্লাহর নিদর্শনাবলীকে অস্বীকার করে, তাদেরকে এভাবেই ফিরিয়ে নেয়া হয়।",
+    "surahNumber": 40,
+    "ayahNumber": 63
+  },
+  {
+    "surahName": "Ghafir",
+    "arabicData": [
+      "أَلَمْ تَرَ إِلَى ٱلَّذِينَ يُجَـٰدِلُونَ فِىٓ ءَايَـٰتِ ٱللَّهِ أَنَّىٰ يُصْرَفُونَ",
+      "الم تر الى الذين يجادلون في ايات الله انى يصرفون"
+    ],
+    "englishData": "Have you not seen how those who dispute Allah’s signs are turned away?",
+    "bengaliData": "তুমি কি তাদের প্রতি লক্ষ্য করনি যারা আল্লাহর নিদর্শনাবলী সম্পর্কে বাকবিতন্ডা করে? তাদেরকে কোথায় ফিরানো হচ্ছে?",
+    "surahNumber": 40,
+    "ayahNumber": 69
+  },
+  {
+    "surahName": "Fussilat",
+    "arabicData": [
+      "وَيَوْمَ يُحْشَرُ أَعْدَآءُ ٱللَّهِ إِلَى ٱلنَّارِ فَهُمْ يُوزَعُونَ",
+      "ويوم يحشر اعداء الله الى النار فهم يوزعون"
+    ],
+    "englishData": "˹Consider˺ the Day ˹when˺ the enemies of Allah will be gathered for the Fire, all driven in ranks.",
+    "bengaliData": "আর যেদিন আল্লাহর দুশমনদেরকে আগুনের দিকে সমবেত করা হবে তখন তাদেরকে বিভিন্ন দলে বিন্যস্ত করা হবে।",
+    "surahNumber": 41,
+    "ayahNumber": 19
+  },
+  {
+    "surahName": "Fussilat",
+    "arabicData": [
+      "إِنَّ ٱلَّذِينَ يُلْحِدُونَ فِىٓ ءَايَـٰتِنَا لَا يَخْفَوْنَ عَلَيْنَآ ۗ أَفَمَن يُلْقَىٰ فِى ٱلنَّارِ خَيْرٌ أَم مَّن يَأْتِىٓ ءَامِنًا يَوْمَ ٱلْقِيَـٰمَةِ ۚ ٱعْمَلُوا۟ مَا شِئْتُمْ ۖ إِنَّهُۥ بِمَا تَعْمَلُونَ بَصِيرٌ",
+      "ان الذين يلحدون في اياتنا لا يخفون علينا افمن يلقى في النار خير ام من ياتي امنا يوم القيامة اعملوا ما شئتم انه بما تعملون بصير"
+    ],
+    "englishData": "Indeed, those who abuse Our revelations are not hidden from Us. Who is better: the one who will be cast into the Fire or the one who will be secure on Judgment Day? Do whatever you want. He is certainly All-Seeing of what you do.",
+    "bengaliData": "নিশ্চয় যারা আমার আয়াতসমূহ বিকৃত করে তারা আমার অগোচরে নয়। যে অগ্নিতে নিক্ষিপ্ত হবে সে কি উত্তম, না যে কিয়ামত দিবসে নিরাপদভাবে উপস্থিত হবে? তোমাদের যা ইচ্ছা আমল কর। নিশ্চয় তোমরা যা আমল কর তিনি তার সম্যক দ্রষ্টা।",
+    "surahNumber": 41,
+    "ayahNumber": 40
+  },
+  {
+    "surahName": "Fussilat",
+    "arabicData": [
+      "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ فَٱخْتُلِفَ فِيهِ ۗ وَلَوْلَا كَلِمَةٌ سَبَقَتْ مِن رَّبِّكَ لَقُضِىَ بَيْنَهُمْ ۚ وَإِنَّهُمْ لَفِى شَكٍّ مِّنْهُ مُرِيبٍ",
+      "ولقد اتينا موسى الكتاب فاختلف فيه ولولا كلمة سبقت من ربك لقضي بينهم وانهم لفي شك منه مريب"
+    ],
+    "englishData": "Indeed, We had given Moses the Scripture, but differences arose regarding it. Had it not been for a prior decree from your Lord, their differences would have been settled ˹at once˺. They are truly in alarming doubt about it.",
+    "bengaliData": "আর অবশ্যই আমি মূসাকে কিতাব দিয়েছিলাম। অতঃপর তাতে মতভেদ করা হয়। আর যদি তোমার রবের পক্ষ থেকে একটি বাণী পূর্বেই না হত, তবে এদের মধ্যে ফয়সালা হয়ে যেত। আর এরা নিশ্চয় সে সম্পর্কে বিভ্রান্তিকর সংশয়েই লিপ্ত রয়েছে।",
+    "surahNumber": 41,
+    "ayahNumber": 45
+  },
+  {
+    "surahName": "Ash-Shuraa",
+    "arabicData": [
+      "وَمَآ أَصَـٰبَكُم مِّن مُّصِيبَةٍ فَبِمَا كَسَبَتْ أَيْدِيكُمْ وَيَعْفُوا۟ عَن كَثِيرٍ",
+      "وما اصابكم من مصيبة فبما كسبت ايديكم ويعفو عن كثير"
+    ],
+    "englishData": "Whatever affliction befalls you is because of what your own hands have committed. And He pardons much.",
+    "bengaliData": "আর তোমাদের প্রতি যে মুসীবত আপতিত হয়, তা তোমাদের কৃতকর্মেরই ফল। আর অনেক কিছুই তিনি ক্ষমা করে দেন।",
+    "surahNumber": 42,
+    "ayahNumber": 30
+  },
+  {
+    "surahName": "Ash-Shuraa",
+    "arabicData": [
+      "وَمَآ أَنتُم بِمُعْجِزِينَ فِى ٱلْأَرْضِ ۖ وَمَا لَكُم مِّن دُونِ ٱللَّهِ مِن وَلِىٍّ وَلَا نَصِيرٍ",
+      "وما انتم بمعجزين في الارض وما لكم من دون الله من ولي ولا نصير"
+    ],
+    "englishData": "You can never escape ˹Him˺ on earth, nor do you have any protector or helper besides Allah.",
+    "bengaliData": "তোমরা যমীনে (আল্লাহর কর্ম পরিকল্পনাকে) ব্যর্থ করতে পারবে না। আর আল্লাহ ছাড়া তোমাদের কোন অভিভাবক নেই এবং কোন সাহায্যকারীও নেই।",
+    "surahNumber": 42,
+    "ayahNumber": 31
+  },
+  {
+    "surahName": "Ash-Shuraa",
+    "arabicData": [
+      "أَوْ يُوبِقْهُنَّ بِمَا كَسَبُوا۟ وَيَعْفُ عَن كَثِيرٍ",
+      "او يوبقهن بما كسبوا ويعف عن كثير"
+    ],
+    "englishData": "Or He can wreck the ships for what the people have committed—though He forgives much—",
+    "bengaliData": "অথবা তাদের কৃতকর্মের জন্য সেগুলোকে তিনি ধ্বংস করে দিতে পারেন, আবার অনেককে তিনি ক্ষমাও করেন।",
+    "surahNumber": 42,
+    "ayahNumber": 34
+  },
+  {
+    "surahName": "Ash-Shuraa",
+    "arabicData": [
+      "وَيَعْلَمَ ٱلَّذِينَ يُجَـٰدِلُونَ فِىٓ ءَايَـٰتِنَا مَا لَهُم مِّن مَّحِيصٍ",
+      "ويعلم الذين يجادلون في اياتنا ما لهم من محيص"
+    ],
+    "englishData": "So those who dispute about Our signs may know that they have no refuge.",
+    "bengaliData": "আর যারা আমার নিদর্শনসমূহ সম্পর্কে বাক বিতন্ডা করে তারা যেন জানতে পারে যে, তাদের কোন আশ্রয়স্থল নেই।",
+    "surahNumber": 42,
+    "ayahNumber": 35
+  },
+  {
+    "surahName": "Ash-Shuraa",
+    "arabicData": [
+      "فَمَآ أُوتِيتُم مِّن شَىْءٍ فَمَتَـٰعُ ٱلْحَيَوٰةِ ٱلدُّنْيَا ۖ وَمَا عِندَ ٱللَّهِ خَيْرٌ وَأَبْقَىٰ لِلَّذِينَ ءَامَنُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+      "فما اوتيتم من شيء فمتاع الحياة الدنيا وما عند الله خير وابقى للذين امنوا وعلى ربهم يتوكلون"
+    ],
+    "englishData": "Whatever ˹pleasure˺ you have been given is ˹no more than a fleeting˺ enjoyment of this worldly life. But what is with Allah is far better and more lasting for those who believe and put their trust in their Lord;",
+    "bengaliData": "আর তোমাদেরকে যা কিছু দেয়া হয়েছে তা দুনিয়ার জীবনের ভোগ্য সামগ্রী মাত্র। আর আল্লাহর নিকট যা আছে তা উৎকৃষ্ট ও স্থায়ী তাদের জন্য যারা ঈমান আনে এবং তাদের রবের উপর তাওয়াক্কুল করে।",
+    "surahNumber": 42,
+    "ayahNumber": 36
+  },
+  {
+    "surahName": "Ash-Shuraa",
+    "arabicData": [
+      "ٱسْتَجِيبُوا۟ لِرَبِّكُم مِّن قَبْلِ أَن يَأْتِىَ يَوْمٌ لَّا مَرَدَّ لَهُۥ مِنَ ٱللَّهِ ۚ مَا لَكُم مِّن مَّلْجَإٍ يَوْمَئِذٍ وَمَا لَكُم مِّن نَّكِيرٍ",
+      "استجيبوا لربكم من قبل ان ياتي يوم لا مرد له من الله ما لكم من ملجا يومئذ وما لكم من نكير"
+    ],
+    "englishData": "Respond to your Lord before the coming of a Day from Allah that cannot be averted. There will be no refuge for you then, nor ˹grounds for˺ denial ˹of sins˺.",
+    "bengaliData": "তোমরা তোমাদের রবের ডাকে সাড়া দাও, আল্লাহর পক্ষ থেকে সেদিন আসার পূর্বের্ই, যাকে ফিরিয়ে দেয়ার কোনো উপায় নেই। সেদিন তোমাদের জন্য কোন আশ্রয়স্থল থাকবে না এবং তোমাদের জন্য প্রতিরোধকারীও থাকবে না।",
+    "surahNumber": 42,
+    "ayahNumber": 47
+  },
+  {
+    "surahName": "Az-Zukhruf",
+    "arabicData": [
+      "وَٱلَّذِى خَلَقَ ٱلْأَزْوَٰجَ كُلَّهَا وَجَعَلَ لَكُم مِّنَ ٱلْفُلْكِ وَٱلْأَنْعَـٰمِ مَا تَرْكَبُونَ",
+      "والذي خلق الازواج كلها وجعل لكم من الفلك والانعام ما تركبون"
+    ],
+    "englishData": "And ˹He is the One˺ Who created all ˹things in˺ pairs, and made for you ships and animals to ride",
+    "bengaliData": "আর যিনি সব কিছুই জোড়া জোড়া সৃষ্টি করেছেন এবং তিনি তোমাদের জন্য নৌযান ও গৃহপালিত জন্তু সৃষ্টি করেছেন, যাতে তোমরা আরোহণ কর,",
+    "surahNumber": 43,
+    "ayahNumber": 12
+  },
+  {
+    "surahName": "Az-Zukhruf",
+    "arabicData": [
+      "وَإِذْ قَالَ إِبْرَٰهِيمُ لِأَبِيهِ وَقَوْمِهِۦٓ إِنَّنِى بَرَآءٌ مِّمَّا تَعْبُدُونَ",
+      "واذ قال ابراهيم لابيه وقومه انني براء مما تعبدون"
+    ],
+    "englishData": "˹Remember, O  Prophet˺ when Abraham declared to his father and his people, “I am totally free of whatever ˹gods˺ you worship",
+    "bengaliData": "আর স্মরণ কর, যখন ইবরাহীম স্বীয় পিতা ও তার কওমকে বলেছিল, ‘তোমরা যেগুলোর ইবাদাত কর, নিশ্চয় আমি তাদের থেকে সম্পর্কমুক্ত’।",
+    "surahNumber": 43,
+    "ayahNumber": 26
+  },
+  {
+    "surahName": "Az-Zukhruf",
+    "arabicData": [
+      "وَإِنَّهُۥ لَذِكْرٌ لَّكَ وَلِقَوْمِكَ ۖ وَسَوْفَ تُسْـَٔلُونَ",
+      "وانه لذكر لك ولقومك وسوف تسالون"
+    ],
+    "englishData": "Surely this ˹Quran˺ is a glory for you and your people. And you will ˹all˺ be questioned ˹about it˺.",
+    "bengaliData": "নিশ্চয় এ কুরআন তোমার জন্য এবং তোমার কওমের জন্য উপদেশ। আর অচিরেই তোমাদেরকে জিজ্ঞাসা করা হবে।",
+    "surahNumber": 43,
+    "ayahNumber": 44
+  },
+  {
+    "surahName": "Al-Ahqaf",
+    "arabicData": [
+      "وَوَصَّيْنَا ٱلْإِنسَـٰنَ بِوَٰلِدَيْهِ إِحْسَـٰنًا ۖ حَمَلَتْهُ أُمُّهُۥ كُرْهًا وَوَضَعَتْهُ كُرْهًا ۖ وَحَمْلُهُۥ وَفِصَـٰلُهُۥ ثَلَـٰثُونَ شَهْرًا ۚ حَتَّىٰٓ إِذَا بَلَغَ أَشُدَّهُۥ وَبَلَغَ أَرْبَعِينَ سَنَةً قَالَ رَبِّ أَوْزِعْنِىٓ أَنْ أَشْكُرَ نِعْمَتَكَ ٱلَّتِىٓ أَنْعَمْتَ عَلَىَّ وَعَلَىٰ وَٰلِدَىَّ وَأَنْ أَعْمَلَ صَـٰلِحًا تَرْضَىٰهُ وَأَصْلِحْ لِى فِى ذُرِّيَّتِىٓ ۖ إِنِّى تُبْتُ إِلَيْكَ وَإِنِّى مِنَ ٱلْمُسْلِمِينَ",
+      "ووصينا الانسان بوالديه احسانا حملته امه كرها ووضعته كرها وحمله وفصاله ثلاثون شهرا حتى اذا بلغ اشده وبلغ اربعين سنة قال رب اوزعني ان اشكر نعمتك التي انعمت علي وعلى والدي وان اعمل صالحا ترضاه واصلح لي في ذريتي اني تبت اليك واني من المسلمين"
+    ],
+    "englishData": "We have commanded people to honour their parents. Their mothers bore them in hardship and delivered them in hardship. Their ˹period of˺ bearing and weaning is thirty months. In time, when the child reaches their prime at the age of forty, they pray, “My Lord! Inspire me to ˹always˺ be thankful for Your favours which You blessed me and my parents with, and to do good deeds that please You. And instil righteousness in my offspring. I truly repent to You, and I truly submit ˹to Your Will˺.”",
+    "bengaliData": "আর আমি মানুষকে তার মাতা-পিতার প্রতি সদয় ব্যবহারের নির্দেশ দিয়েছি। তার মা তাকে অতিকষ্টে গর্ভে ধারণ করেছে এবং অতি কষ্টে তাকে প্রসব করেছে। তার গর্ভধারণ ও দুধপান ছাড়ানোর সময় লাগে ত্রিশ মাস। অবশেষে যখন সে তার শক্তির পূর্ণতায় পৌঁছে এবং চল্লিশ বছরে উপনীত হয়, তখন সে বলে, ‘হে আমার রব, আমাকে সামর্থ্য দাও, তুমি আমার উপর ও আমার মাতা-পিতার উপর যে নিআমত দান করেছ, তোমার সে নিআমতের যেন আমি শোকর আদায় করতে পারি এবং আমি যেন সৎকর্ম করতে পারি, যা তুমি পছন্দ কর। আর আমার জন্য তুমি আমার বংশধরদের মধ্যে সংশোধন করে দাও। নিশ্চয় আমি তোমার কাছে তাওবা করলাম এবং নিশ্চয় আমি মুসলিমদের অন্তর্ভুক্ত’।",
+    "surahNumber": 46,
+    "ayahNumber": 15
+  },
+  {
+    "surahName": "Muhammad",
+    "arabicData": [
+      "وَمِنْهُم مَّن يَسْتَمِعُ إِلَيْكَ حَتَّىٰٓ إِذَا خَرَجُوا۟ مِنْ عِندِكَ قَالُوا۟ لِلَّذِينَ أُوتُوا۟ ٱلْعِلْمَ مَاذَا قَالَ ءَانِفًا ۚ أُو۟لَـٰٓئِكَ ٱلَّذِينَ طَبَعَ ٱللَّهُ عَلَىٰ قُلُوبِهِمْ وَٱتَّبَعُوٓا۟ أَهْوَآءَهُمْ",
+      "ومنهم من يستمع اليك حتى اذا خرجوا من عندك قالوا للذين اوتوا العلم ماذا قال انفا اولئك الذين طبع الله على قلوبهم واتبعوا اهواءهم"
+    ],
+    "englishData": "There are some of them who listen to you ˹O Prophet˺, but when they depart from you, they say ˹mockingly˺ to those ˹believers˺ gifted with knowledge, “What did he just say?” These are the ones whose hearts Allah has sealed and who ˹only˺ follow their desires.",
+    "bengaliData": "আর তাদের মধ্যে এমন কতক রয়েছে, যারা তোমার প্রতি মনোযোগ দিয়ে শুনে। অবশেষে যখন তারা তোমার কাছ থেকে বের হয়ে যায় তখন তারা যাদের জ্ঞান দান করা হয়েছে তাদের উদ্দেশ্যে বলে, ‘এই মাত্র সে কী বলল?’ এরাই তারা, যাদের অন্তরসমূহে আল্লাহ মোহর মেরে দিয়েছেন এবং তারা নিজদের খেয়াল-খুশীর অনুসরণ করেছে।",
+    "surahNumber": 47,
+    "ayahNumber": 16
+  },
+  {
+    "surahName": "Muhammad",
+    "arabicData": [
+      "فَلَا تَهِنُوا۟ وَتَدْعُوٓا۟ إِلَى ٱلسَّلْمِ وَأَنتُمُ ٱلْأَعْلَوْنَ وَٱللَّهُ مَعَكُمْ وَلَن يَتِرَكُمْ أَعْمَـٰلَكُمْ",
+      "فلا تهنوا وتدعوا الى السلم وانتم الاعلون والله معكم ولن يتركم اعمالكم"
+    ],
+    "englishData": "So do not falter or cry for peace, for you will have the upper hand and Allah is with you. And He will never let your deeds go to waste.",
+    "bengaliData": "অতএব তোমরা হীনবল হয়ো না ও সন্ধির আহবান জানিও না এবং তোমরাই প্রবল। আর আল্লাহ তোমাদের সাথেই রয়েছেন এবং কখনই তিনি তোমাদের কর্মফল হ্রাস করবেন না।",
+    "surahNumber": 47,
+    "ayahNumber": 35
+  },
+  {
+    "surahName": "Al-Fath",
+    "arabicData": [
+      "إِنَّآ أَرْسَلْنَـٰكَ شَـٰهِدًا وَمُبَشِّرًا وَنَذِيرًا",
+      "انا ارسلناك شاهدا ومبشرا ونذيرا"
+    ],
+    "englishData": "Indeed, ˹O Prophet,˺ We have sent you as a witness, a deliverer of good news, and a warner",
+    "bengaliData": "নিশ্চয় আমি তোমাকে পাঠিয়েছি সাক্ষ্যদাতা, সুসংবাদদাতা ও সতর্ককারী রূপে।",
+    "surahNumber": 48,
+    "ayahNumber": 8
+  },
+  {
+    "surahName": "Al-Hujurat",
+    "arabicData": [
+      "وَلَوْ أَنَّهُمْ صَبَرُوا۟ حَتَّىٰ تَخْرُجَ إِلَيْهِمْ لَكَانَ خَيْرًا لَّهُمْ ۚ وَٱللَّهُ غَفُورٌ رَّحِيمٌ",
+      "ولو انهم صبروا حتى تخرج اليهم لكان خيرا لهم والله غفور رحيم"
+    ],
+    "englishData": "Had they been patient until you could come out to them, it would have certainly been better for them. And Allah is All-Forgiving, Most Merciful.",
+    "bengaliData": "তুমি তাদের কাছে বের হয়ে আসা পর্যন্ত যদি তারা ধৈর্যধারণ করত, তাহলে সেটাই তাদের জন্য উত্তম হত। আর আল্লাহ অত্যন্ত ক্ষমাশীল, পরম দয়ালু।",
+    "surahNumber": 49,
+    "ayahNumber": 5
+  },
+  {
+    "surahName": "Qaf",
+    "arabicData": [
+      "رِّزْقًا لِّلْعِبَادِ ۖ وَأَحْيَيْنَا بِهِۦ بَلْدَةً مَّيْتًا ۚ كَذَٰلِكَ ٱلْخُرُوجُ",
+      "رزقا للعباد واحيينا به بلدة ميتا كذلك الخروج"
+    ],
+    "englishData": "˹As˺ a provision for ˹Our˺ servants. And with this ˹rain˺ We revive a lifeless land. Similar is the emergence ˹from the graves˺.",
+    "bengaliData": "আমার বান্দাদের জন্য রিয্কস্বরূপ। আর আমি পানি দ্বারা মৃত শহর সঞ্জীবিত করি। এভাবেই উত্থান ঘটবে।",
+    "surahNumber": 50,
+    "ayahNumber": 11
+  },
+  {
+    "surahName": "Qaf",
+    "arabicData": [
+      "وَأَصْحَـٰبُ ٱلْأَيْكَةِ وَقَوْمُ تُبَّعٍ ۚ كُلٌّ كَذَّبَ ٱلرُّسُلَ فَحَقَّ وَعِيدِ",
+      "واصحاب الايكة وقوم تبع كل كذب الرسل فحق وعيد"
+    ],
+    "englishData": "the residents of the Forest, and the people of Tubba’. Each rejected ˹their˺ messenger, so My warning was fulfilled.",
+    "bengaliData": "আইকার অধিবাসী ও তুব্বা‘ সম্প্রদায়। সকলেই রাসূলদেরকে মিথ্যাবাদী বলেছিল।",
+    "surahNumber": 50,
+    "ayahNumber": 14
+  },
+  {
+    "surahName": "Al-Qamar",
+    "arabicData": [
+      "وَلَقَدْ يَسَّرْنَا ٱلْقُرْءَانَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍ",
+      "ولقد يسرنا القران للذكر فهل من مدكر"
+    ],
+    "englishData": "And We have certainly made the Quran easy to remember. So is there anyone who will be mindful?",
+    "bengaliData": "আর আমি তো কুরআনকে সহজ করে দিয়েছি, উপদেশ গ্রহণের জন্য। অতএব কোন উপদেশ গ্রহণকারী আছে কি?",
+    "surahNumber": 54,
+    "ayahNumber": 40
+  },
+  {
+    "surahName": "Ar-Rahman",
+    "arabicData": [
+      "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "فباي الاء ربكما تكذبان"
+    ],
+    "englishData": "Then which of your Lord’s favours will you both deny?",
+    "bengaliData": "সুতরাং তোমাদের রবের কোন্ নিআমতকে তোমরা উভয়ে অস্বীকার করবে ?",
+    "surahNumber": 55,
+    "ayahNumber": 77
+  },
+  {
+    "surahName": "Ar-Rahman",
+    "arabicData": [
+      "يَـٰمَعْشَرَ ٱلْجِنِّ وَٱلْإِنسِ إِنِ ٱسْتَطَعْتُمْ أَن تَنفُذُوا۟ مِنْ أَقْطَارِ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ فَٱنفُذُوا۟ ۚ لَا تَنفُذُونَ إِلَّا بِسُلْطَـٰنٍ",
+      "يا معشر الجن والانس ان استطعتم ان تنفذوا من اقطار السماوات والارض فانفذوا لا تنفذون الا بسلطان"
+    ],
+    "englishData": "O  assembly of jinn and humans! If you can penetrate beyond the realms of the heavens and the earth, then do so. ˹But˺ you cannot do that without ˹Our˺ authority.",
+    "bengaliData": "হে জিন ও মানবজাতি, যদি তোমরা আসমানসমূহ ও যমীনের সীমানা থেকে বের হতে পার, তাহলে বের হও। কিন্তু তোমরা তো (আল্লাহর দেয়া) শক্তি ছাড়া বের হতে পারবে না।",
+    "surahNumber": 55,
+    "ayahNumber": 33
+  },
+  {
+    "surahName": "Al-Mujadila",
+    "arabicData": [
+      "إِنَّ ٱلَّذِينَ يُحَآدُّونَ ٱللَّهَ وَرَسُولَهُۥ كُبِتُوا۟ كَمَا كُبِتَ ٱلَّذِينَ مِن قَبْلِهِمْ ۚ وَقَدْ أَنزَلْنَآ ءَايَـٰتٍۭ بَيِّنَـٰتٍ ۚ وَلِلْكَـٰفِرِينَ عَذَابٌ مُّهِينٌ",
+      "ان الذين يحادون الله ورسوله كبتوا كما كبت الذين من قبلهم وقد انزلنا ايات بينات وللكافرين عذاب مهين"
+    ],
+    "englishData": "Indeed, those who defy Allah and His Messenger will be debased, just like those before them. We have certainly sent down clear revelations. And the disbelievers will suffer a humiliating punishment.",
+    "bengaliData": "যারা আল্লাহ ও তাঁর রাসূলের বিরোধিতা করে তাদেরকে অপদস্থ করা হবে যেভাবে অপদস্থ করা হয়েছিল তাদের পূর্ববর্তীদেরকে। আর আমি নাযিল করেছি সুস্পষ্ট প্রমাণাদি। আর কাফিরদের জন্য রয়েছে অপমানজনক আযাব।",
+    "surahNumber": 58,
+    "ayahNumber": 5
+  },
+  {
+    "surahName": "Al-Mujadila",
+    "arabicData": [
+      "كَتَبَ ٱللَّهُ لَأَغْلِبَنَّ أَنَا۠ وَرُسُلِىٓ ۚ إِنَّ ٱللَّهَ قَوِىٌّ عَزِيزٌ",
+      "كتب الله لاغلبن انا ورسلي ان الله قوي عزيز"
+    ],
+    "englishData": "Allah has decreed, “I and My messengers will certainly prevail.” Surely Allah is All-Powerful, Almighty.",
+    "bengaliData": "আল্লাহ লিখে দিয়েছেন যে, ‘আমি ও আমার রাসূলগণ অবশ্যই বিজয়ী হব।’ নিশ্চয় আল্লাহ মহা শক্তিমান, মহা পরাক্রমশালী।",
+    "surahNumber": 58,
+    "ayahNumber": 21
+  },
+  {
+    "surahName": "Al-Mujadila",
+    "arabicData": [
+      "لَّا تَجِدُ قَوْمًا يُؤْمِنُونَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ يُوَآدُّونَ مَنْ حَآدَّ ٱللَّهَ وَرَسُولَهُۥ وَلَوْ كَانُوٓا۟ ءَابَآءَهُمْ أَوْ أَبْنَآءَهُمْ أَوْ إِخْوَٰنَهُمْ أَوْ عَشِيرَتَهُمْ ۚ أُو۟لَـٰٓئِكَ كَتَبَ فِى قُلُوبِهِمُ ٱلْإِيمَـٰنَ وَأَيَّدَهُم بِرُوحٍ مِّنْهُ ۖ وَيُدْخِلُهُمْ جَنَّـٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَا ۚ رَضِىَ ٱللَّهُ عَنْهُمْ وَرَضُوا۟ عَنْهُ ۚ أُو۟لَـٰٓئِكَ حِزْبُ ٱللَّهِ ۚ أَلَآ إِنَّ حِزْبَ ٱللَّهِ هُمُ ٱلْمُفْلِحُونَ",
+      "لا تجد قوما يؤمنون بالله واليوم الاخر يوادون من حاد الله ورسوله ولو كانوا اباءهم او ابناءهم او اخوانهم او عشيرتهم اولئك كتب في قلوبهم الايمان وايدهم بروح منه ويدخلهم جنات تجري من تحتها الانهار خالدين فيها رضي الله عنهم ورضوا عنه اولئك حزب الله الا ان حزب الله هم المفلحون"
+    ],
+    "englishData": "You will never find a people who ˹truly˺ believe in Allah and the Last Day loyal to those who defy Allah and His Messenger, even if they were their parents, children, siblings, or extended family. For those ˹believers˺, Allah has instilled faith in their hearts and strengthened them with a spirit from Him. He will admit them into Gardens under which rivers flow, to stay there forever. Allah is pleased with them and they are pleased with Him. They are the party of Allah. Indeed, Allah’s party is bound to succeed.",
+    "bengaliData": "তুমি পাবে না এমন জাতিকে যারা আল্লাহ ও পরকালের প্রতি ঈমান আনে, বন্ধুত্ব করে তার সাথে যে আল্লাহ ও তাঁর রাসূলের বিরোধীতা করে, যদিও তারা তাদের পিতা, অথবা পুত্র, অথবা ভাই, অথবা জ্ঞাতি-গোষ্ঠী হয়। এরাই, যাদের অন্তরে আল্লাহ ঈমান লিখে দিয়েছেন এবং তাঁর পক্ষ থেকে রূহ দ্বারা তাদের শক্তিশালী করেছেন। তিনি তাদের প্রবেশ করাবেন এমন জান্নাতসমূহে যার নিচে দিয়ে ঝর্ণাধারাসমূহ প্রবাহিত হয়। সেখানে তারা স্থায়ী হবে। আল্লাহ তাদের প্রতি সন্তুষ্ট হয়েছেন এবং তারাও আল্লাহর প্রতি সন্তুষ্ট হয়েছে। এরাই আল্লাহর দল। জেনে রাখ, নিশ্চয় আল্লাহর দলই সফলকাম।",
+    "surahNumber": 58,
+    "ayahNumber": 22
+  },
+  {
+    "surahName": "Al-Hashr",
+    "arabicData": [
+      "لِلْفُقَرَآءِ ٱلْمُهَـٰجِرِينَ ٱلَّذِينَ أُخْرِجُوا۟ مِن دِيَـٰرِهِمْ وَأَمْوَٰلِهِمْ يَبْتَغُونَ فَضْلًا مِّنَ ٱللَّهِ وَرِضْوَٰنًا وَيَنصُرُونَ ٱللَّهَ وَرَسُولَهُۥٓ ۚ أُو۟لَـٰٓئِكَ هُمُ ٱلصَّـٰدِقُونَ",
+      "للفقراء المهاجرين الذين اخرجوا من ديارهم واموالهم يبتغون فضلا من الله ورضوانا وينصرون الله ورسوله اولئك هم الصادقون"
+    ],
+    "englishData": "˹Some of the gains will be˺ for poor emigrants who were driven out of their homes and wealth, seeking Allah’s bounty and pleasure, and standing up for Allah and His Messenger. They are the ones true in faith.",
+    "bengaliData": "এই সম্পদ নিঃস্ব মুহাজিরগণের জন্য ও যাদেরকে নিজেদের ঘর-বাড়ী ও ধন-সম্পত্তি থেকে বের করে দেয়া হয়েছিল। অথচ এরা আল্লাহর অনুগ্রহ ও সন্তুষ্টির অন্বেষণ করে এবং আল্লাহ ও তাঁর রাসূলকে সাহায্য করেন। এরাই তো সত্যবাদী।",
+    "surahNumber": 59,
+    "ayahNumber": 8
+  },
+  {
+    "surahName": "Al-Hashr",
+    "arabicData": [
+      "هُوَ ٱللَّهُ ٱلَّذِى لَآ إِلَـٰهَ إِلَّا هُوَ ٱلْمَلِكُ ٱلْقُدُّوسُ ٱلسَّلَـٰمُ ٱلْمُؤْمِنُ ٱلْمُهَيْمِنُ ٱلْعَزِيزُ ٱلْجَبَّارُ ٱلْمُتَكَبِّرُ ۚ سُبْحَـٰنَ ٱللَّهِ عَمَّا يُشْرِكُونَ",
+      "هو الله الذي لا اله الا هو الملك القدوس السلام المؤمن المهيمن العزيز الجبار المتكبر سبحان الله عما يشركون"
+    ],
+    "englishData": "He is Allah—there is no god except Him: the King, the Most Holy, the All-Perfect, the Source of Serenity, the Watcher ˹of all˺, the Almighty, the Supreme in Might, the Majestic. Glorified is Allah far above what they associate with Him ˹in worship˺!",
+    "bengaliData": "তিনিই আল্লাহ; যিনি ছাড়া কোন ইলাহ নেই, তিনিই বাদশাহ, মহাপবিত্র, ত্রুটিমুক্ত, নিরাপত্তাদানকারী, রক্ষক, মহাপরাক্রমশালী, মহাপ্রতাপশালী, অতীব মহিমান্বিত, তারা যা শরীক করে তা হতে পবিত্র মহান।",
+    "surahNumber": 59,
+    "ayahNumber": 23
+  },
+  {
+    "surahName": "As-Saf",
+    "arabicData": [
+      "هُوَ ٱلَّذِىٓ أَرْسَلَ رَسُولَهُۥ بِٱلْهُدَىٰ وَدِينِ ٱلْحَقِّ لِيُظْهِرَهُۥ عَلَى ٱلدِّينِ كُلِّهِۦ وَلَوْ كَرِهَ ٱلْمُشْرِكُونَ",
+      "هو الذي ارسل رسوله بالهدى ودين الحق ليظهره على الدين كله ولو كره المشركون"
+    ],
+    "englishData": "He is the One Who has sent His Messenger with ˹true˺ guidance and the religion of truth, making it prevail over all others, even to the dismay of the polytheists.",
+    "bengaliData": "তিনিই তাঁর রাসূলকে হিদায়াত ও সত্যদ্বীন দিয়ে প্রেরণ করেছেন, যাতে তিনি সকল দ্বীনের উপর তা বিজয়ী করে দেন। যদিও মুশরিকরা তা অপছন্দ করে।",
+    "surahNumber": 61,
+    "ayahNumber": 9
+  },
+  {
+    "surahName": "As-Saf",
+    "arabicData": [
+      "وَأُخْرَىٰ تُحِبُّونَهَا ۖ نَصْرٌ مِّنَ ٱللَّهِ وَفَتْحٌ قَرِيبٌ ۗ وَبَشِّرِ ٱلْمُؤْمِنِينَ",
+      "واخرى تحبونها نصر من الله وفتح قريب وبشر المؤمنين"
+    ],
+    "englishData": "˹He will also give you˺ another favour that you long for: help from Allah and an imminent victory. ˹So˺ give good news ˹O Prophet˺ to the believers.",
+    "bengaliData": "এবং আরো একটি (অর্জন) যা তোমরা খুব পছন্দ কর। (অর্থাৎ) আল্লাহর পক্ষ থেকে সাহায্য ও নিকটবর্তী বিজয়। আর মুমিনদেরকে তুমি সুসংবাদ দাও।",
+    "surahNumber": 61,
+    "ayahNumber": 13
+  },
+  {
+    "surahName": "Al-Jumu'ah",
+    "arabicData": [
+      "وَءَاخَرِينَ مِنْهُمْ لَمَّا يَلْحَقُوا۟ بِهِمْ ۚ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+      "واخرين منهم لما يلحقوا بهم وهو العزيز الحكيم"
+    ],
+    "englishData": "Along with others of them who have not yet joined them ˹in faith˺. For He is the Almighty, All-Wise.",
+    "bengaliData": "এবং তাদের মধ্য হতে অন্যান্যদের জন্যও, (এ রাসূলকেই পাঠানো হয়েছে) যারা এখনো তাদের সাথে মিলিত হয়নি। আর তিনিই মহা পরাক্রমশালী, প্রজ্ঞাময়।",
+    "surahNumber": 62,
+    "ayahNumber": 3
+  },
+  {
+    "surahName": "Al-Jumu'ah",
+    "arabicData": [
+      "ذَٰلِكَ فَضْلُ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ ۚ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ",
+      "ذلك فضل الله يؤتيه من يشاء والله ذو الفضل العظيم"
+    ],
+    "englishData": "This is the favour of Allah. He grants it to whoever He wills. And Allah is the Lord of infinite bounty.",
+    "bengaliData": "এটা আল্লাহর অনুগ্রহ, যাকে ইচ্ছা তিনি তা দান করেন। আর আল্লাহ মহা অনুগ্রহের অধিকারী।",
+    "surahNumber": 62,
+    "ayahNumber": 4
+  },
+  {
+    "surahName": "Al-Munafiqun",
+    "arabicData": [
+      "وَأَنفِقُوا۟ مِن مَّا رَزَقْنَـٰكُم مِّن قَبْلِ أَن يَأْتِىَ أَحَدَكُمُ ٱلْمَوْتُ فَيَقُولَ رَبِّ لَوْلَآ أَخَّرْتَنِىٓ إِلَىٰٓ أَجَلٍ قَرِيبٍ فَأَصَّدَّقَ وَأَكُن مِّنَ ٱلصَّـٰلِحِينَ",
+      "وانفقوا من ما رزقناكم من قبل ان ياتي احدكم الموت فيقول رب لولا اخرتني الى اجل قريب فاصدق واكن من الصالحين"
+    ],
+    "englishData": "And donate from what We have provided for you before death comes to one of you, and you cry, “My Lord! If only You delayed me for a short while, I would give in charity and be one of the righteous.”",
+    "bengaliData": "আর আমি তোমাদেরকে যে রিযক দিয়েছি তা থেকে ব্যয় কর, তোমাদের কারো মৃত্যু আসার পূর্বে। কেননা তখন সে বলবে, হে আমার রব, যদি আপনি আমাকে আরো কিছু কাল পর্যন্ত অবকাশ দিতেন, তাহলে আমি দান-সদাকা করতাম। আর সৎ লোকদের অন্তর্ভুক্ত হতাম।",
+    "surahNumber": 63,
+    "ayahNumber": 10
+  },
+  {
+    "surahName": "Al-Munafiqun",
+    "arabicData": [
+      "وَلَن يُؤَخِّرَ ٱللَّهُ نَفْسًا إِذَا جَآءَ أَجَلُهَا ۚ وَٱللَّهُ خَبِيرٌۢ بِمَا تَعْمَلُونَ",
+      "ولن يؤخر الله نفسا اذا جاء اجلها والله خبير بما تعملون"
+    ],
+    "englishData": "But Allah never delays a soul when its appointed time comes. And Allah is All-Aware of what you do.",
+    "bengaliData": "আর আল্লাহ কখনো কোন প্রাণকেই অবকাশ দেবেন না, যখন তার নির্ধারিত সময় এসে যাবে। আর তোমরা যা কর সে সম্পর্কে আল্লাহ সম্যক অবহিত।",
+    "surahNumber": 63,
+    "ayahNumber": 11
+  },
+  {
+    "surahName": "At-Taghabun",
+    "arabicData": [
+      "وَٱلَّذِينَ كَفَرُوا۟ وَكَذَّبُوا۟ بِـَٔايَـٰتِنَآ أُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلنَّارِ خَـٰلِدِينَ فِيهَا ۖ وَبِئْسَ ٱلْمَصِيرُ",
+      "والذين كفروا وكذبوا باياتنا اولئك اصحاب النار خالدين فيها وبئس المصير"
+    ],
+    "englishData": "As for those who disbelieve and reject Our revelations, they will be the residents of the Fire, staying there forever. What an evil destination!",
+    "bengaliData": "কিন্তু যারা কুফরী করে এবং আমার আয়াতসমূহ অস্বীকার করে তারাই জাহান্নামের অধিবাসী। তথায় তারা স্থায়ী হবে। আর তা কতইনা নিকৃষ্ট প্রত্যাবর্তনস্থল।",
+    "surahNumber": 64,
+    "ayahNumber": 10
+  },
+  {
+    "surahName": "At-Talaq",
+    "arabicData": [
+      "ٱللَّهُ ٱلَّذِى خَلَقَ سَبْعَ سَمَـٰوَٰتٍ وَمِنَ ٱلْأَرْضِ مِثْلَهُنَّ يَتَنَزَّلُ ٱلْأَمْرُ بَيْنَهُنَّ لِتَعْلَمُوٓا۟ أَنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ وَأَنَّ ٱللَّهَ قَدْ أَحَاطَ بِكُلِّ شَىْءٍ عِلْمًۢا",
+      "الله الذي خلق سبع سماوات ومن الارض مثلهن يتنزل الامر بينهن لتعلموا ان الله على كل شيء قدير وان الله قد احاط بكل شيء علما"
+    ],
+    "englishData": "Allah is the One Who created seven heavens ˹in layers˺, and likewise for the earth. The ˹divine˺ command descends between them so you may know that Allah is Most Capable of everything and that Allah certainly encompasses all things in ˹His˺ knowledge.",
+    "bengaliData": "তিনি আল্লাহ, যিনি সাত আসমান এবং অনুরূপ যমীন সৃষ্টি করেছেন; এগুলির মাঝে তাঁর নির্দেশ অবতীর্ণ হয় যেন তোমরা জানতে পার যে, আল্লাহ সর্ববিষয়ে ক্ষমতাবান এবং আল্লাহর জ্ঞানতো সব কিছুকে বেষ্টন করে আছে।",
+    "surahNumber": 65,
+    "ayahNumber": 12
+  },
+  {
+    "surahName": "At-Tahrim",
+    "arabicData": [
+      "إِن تَتُوبَآ إِلَى ٱللَّهِ فَقَدْ صَغَتْ قُلُوبُكُمَا ۖ وَإِن تَظَـٰهَرَا عَلَيْهِ فَإِنَّ ٱللَّهَ هُوَ مَوْلَىٰهُ وَجِبْرِيلُ وَصَـٰلِحُ ٱلْمُؤْمِنِينَ ۖ وَٱلْمَلَـٰٓئِكَةُ بَعْدَ ذَٰلِكَ ظَهِيرٌ",
+      "ان تتوبا الى الله فقد صغت قلوبكما وان تظاهرا عليه فان الله هو مولاه وجبريل وصالح المؤمنين والملائكة بعد ذلك ظهير"
+    ],
+    "englishData": "˹It will be better˺ if you ˹wives˺ both turn to Allah in repentance, for your hearts have certainly faltered. But if you ˹continue to˺ collaborate against him, then ˹know that˺ Allah Himself is his Guardian. And Gabriel, the righteous believers, and the angels are ˹all˺ his supporters as well.",
+    "bengaliData": "যদি তোমরা উভয়ে আল্লাহর কাছে তওবা কর (তবে তা তোমাদের জন্য উত্তম)। কারণ তোমাদের উভয়ের অন্তর বাঁকা হয়েছে, আর তোমরা যদি তার বিরুদ্ধে পরস্পরকে সাহায্য কর তবে আল্লাহই তার অভিভাবক এবং জিব্রীল ও সৎকর্মশীল মু’মিনরাও। তাছাড়া অন্যান্য ফেরেশতারাও তার সাহায্যকারী।",
+    "surahNumber": 66,
+    "ayahNumber": 4
+  },
+  {
+    "surahName": "At-Tahrim",
+    "arabicData": [
+      "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ تُوبُوٓا۟ إِلَى ٱللَّهِ تَوْبَةً نَّصُوحًا عَسَىٰ رَبُّكُمْ أَن يُكَفِّرَ عَنكُمْ سَيِّـَٔاتِكُمْ وَيُدْخِلَكُمْ جَنَّـٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ يَوْمَ لَا يُخْزِى ٱللَّهُ ٱلنَّبِىَّ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ ۖ نُورُهُمْ يَسْعَىٰ بَيْنَ أَيْدِيهِمْ وَبِأَيْمَـٰنِهِمْ يَقُولُونَ رَبَّنَآ أَتْمِمْ لَنَا نُورَنَا وَٱغْفِرْ لَنَآ ۖ إِنَّكَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "يا ايها الذين امنوا توبوا الى الله توبة نصوحا عسى ربكم ان يكفر عنكم سيئاتكم ويدخلكم جنات تجري من تحتها الانهار يوم لا يخزي الله النبي والذين امنوا معه نورهم يسعى بين ايديهم وبايمانهم يقولون ربنا اتمم لنا نورنا واغفر لنا انك على كل شيء قدير"
+    ],
+    "englishData": "O believers! Turn to Allah in sincere repentance, so your Lord may absolve you of your sins and admit you into Gardens, under which rivers flow, on the Day Allah will not disgrace the Prophet or the believers with him. Their light will shine ahead of them and on their right. They will say, “Our Lord! Perfect our light for us, and forgive us. ˹For˺ You are truly Most Capable of everything.”",
+    "bengaliData": "হে ঈমানদারগণ, তোমরা আল্লাহর কাছে তাওবা কর, খাঁটি তাওবা; আশা করা যায় তোমাদের রব তোমাদের পাপসমূহ মোচন করবেন এবং তোমাদেরকে এমন জান্নাতসমূহে প্রবেশ করাবেন যার পাদদেশে নহরসমূহ প্রবাহিত, নবী ও তার সাথে যারা ঈমান এনেছে তাদেরকে সেদিন আল্লাহ লাঞ্ছিত করবেন না। তাদের আলো তাদের সামনে ও ডানে ধাবিত হবে। তারা বলবে, ‘হে আমাদের রব, আমাদের জন্য আমাদের আলো পূর্ণ করে দিন এবং আমাদেরকে ক্ষমা করুন; নিশ্চয় আপনি সর্ববিষয়ে সর্বক্ষমতাবান।’",
+    "surahNumber": 66,
+    "ayahNumber": 8
+  },
+  {
+    "surahName": "At-Tahrim",
+    "arabicData": [
+      "وَمَرْيَمَ ٱبْنَتَ عِمْرَٰنَ ٱلَّتِىٓ أَحْصَنَتْ فَرْجَهَا فَنَفَخْنَا فِيهِ مِن رُّوحِنَا وَصَدَّقَتْ بِكَلِمَـٰتِ رَبِّهَا وَكُتُبِهِۦ وَكَانَتْ مِنَ ٱلْقَـٰنِتِينَ",
+      "ومريم ابنت عمران التي احصنت فرجها فنفخنا فيه من روحنا وصدقت بكلمات ربها وكتبه وكانت من القانتين"
+    ],
+    "englishData": "˹There is˺ also ˹the example of˺ Mary, the daughter of ’Imrân, who guarded her chastity, so We breathed into her ˹womb˺ through Our angel ˹Gabriel˺. She testified to the words of her Lord and His Scriptures, and was one of the ˹sincerely˺ devout.",
+    "bengaliData": "(আল্লাহ আরো উদাহরণ পেশ করেন) ইমরান কন্যা মারয়াম-এর, যে নিজের সতীত্ব রক্ষা করেছিল, ফলে আমি তাতে আমার রূহ থেকে ফুঁকে দিয়েছিলাম। আর সে তার রবের বাণীসমূহ ও তাঁর কিতাবসমূহের সত্যতা স্বীকার করেছিল এবং সে ছিল অনুগতদের অন্তর্ভুক্ত।",
+    "surahNumber": 66,
+    "ayahNumber": 12
+  },
+  {
+    "surahName": "Al-Qalam",
+    "arabicData": [
+      "وَإِنَّ لَكَ لَأَجْرًا غَيْرَ مَمْنُونٍ",
+      "وان لك لاجرا غير ممنون"
+    ],
+    "englishData": "You will certainly have a never-ending reward.",
+    "bengaliData": "আর নিশ্চয় তোমার জন্য রয়েছে অফুরন্ত পুরস্কার।",
+    "surahNumber": 68,
+    "ayahNumber": 3
+  },
+  {
+    "surahName": "Al-Haqqah",
+    "arabicData": [
+      "وَإِنَّا لَنَعْلَمُ أَنَّ مِنكُم مُّكَذِّبِينَ",
+      "وانا لنعلم ان منكم مكذبين"
+    ],
+    "englishData": "And We certainly know that some of you will persist in denial",
+    "bengaliData": "আর আমি অবশ্যই জানি যে, তোমাদের মধ্যে কতক রয়েছে মিথ্যারোপকারী।",
+    "surahNumber": 69,
+    "ayahNumber": 49
+  },
+  {
+    "surahName": "Nuh",
+    "arabicData": [
+      "وَقَدْ أَضَلُّوا۟ كَثِيرًا ۖ وَلَا تَزِدِ ٱلظَّـٰلِمِينَ إِلَّا ضَلَـٰلًا",
+      "وقد اضلوا كثيرا ولا تزد الظالمين الا ضلالا"
+    ],
+    "englishData": "Those ˹elite˺ have already led many astray. So ˹O Lord˺, only allow the wrongdoers to stray farther away.”",
+    "bengaliData": "‘বস্তুত তারা অনেককে পথভ্রষ্ট করেছে, আর (হে আল্লাহ) আপনি যালিমদেরকে ভ্রষ্টতা ছাড়া আর কিছুই বাড়াবেন না’।",
+    "surahNumber": 71,
+    "ayahNumber": 24
+  },
+  {
+    "surahName": "Al-Muzzammil",
+    "arabicData": [
+      "إِنَّ هَـٰذِهِۦ تَذْكِرَةٌ ۖ فَمَن شَآءَ ٱتَّخَذَ إِلَىٰ رَبِّهِۦ سَبِيلًا",
+      "ان هذه تذكرة فمن شاء اتخذ الى ربه سبيلا"
+    ],
+    "englishData": "Surely this is a reminder. So let whoever wills take the ˹Right˺ Way to their Lord.",
+    "bengaliData": "নিশ্চয় এ এক উপদেশ। অতএব যে চায় সে তার রবের দিকে পথ অবলম্বন করুক।",
+    "surahNumber": 76,
+    "ayahNumber": 29
+  },
+  {
+    "surahName": "Al-Qiyamah",
+    "arabicData": [
+      "فَجَعَلَ مِنْهُ ٱلزَّوْجَيْنِ ٱلذَّكَرَ وَٱلْأُنثَىٰٓ",
+      "فجعل منه الزوجين الذكر والانثى"
+    ],
+    "englishData": "Producing from it both sexes, male and female.",
+    "bengaliData": "অতঃপর তিনি তা থেকে সৃষ্টি করেন জোড়ায় জোড়ায় পুরুষ ও নারী।",
+    "surahNumber": 75,
+    "ayahNumber": 39
+  },
+  {
+    "surahName": "Al-Insan",
+    "arabicData": [
+      "فَٱصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تُطِعْ مِنْهُمْ ءَاثِمًا أَوْ كَفُورًا",
+      "فاصبر لحكم ربك ولا تطع منهم اثما او كفورا"
+    ],
+    "englishData": "So be patient with your Lord’s decree, and do not yield to any evildoer or ˹staunch˺ disbeliever from among them.",
+    "bengaliData": "অতএব তোমার রবের হুকুমের জন্য ধৈর্য ধারণ কর এবং তাদের মধ্য থেকে কোন পাপিষ্ঠ বা অস্বীকারকারীর আনুগত্য করো না।",
+    "surahNumber": 76,
+    "ayahNumber": 24
+  },
+  {
+    "surahName": "Al-Buruj",
+    "arabicData": [
+      "فَعَّالٌ لِّمَا يُرِيدُ",
+      "فعال لما يريد"
+    ],
+    "englishData": "Doer of whatever He wills.",
+    "bengaliData": "তিনি তা-ই করেন যা চান ।",
+    "surahNumber": 85,
+    "ayahNumber": 16
+  },
+  {
+    "surahName": "Al-Fajr",
+    "arabicData": [
+      "وَجِا۟ىٓءَ يَوْمَئِذٍۭ بِجَهَنَّمَ ۚ يَوْمَئِذٍ يَتَذَكَّرُ ٱلْإِنسَـٰنُ وَأَنَّىٰ لَهُ ٱلذِّكْرَىٰ",
+      "وجيء يومئذ بجهنم يومئذ يتذكر الانسان وانى له الذكرى"
+    ],
+    "englishData": "And Hell is brought forth on that Day—this is when every ˹disbelieving˺ person will remember ˹their own sins˺. But what is the use of remembering then?",
+    "bengaliData": "আর সেদিন জাহান্নামকে উপস্থিত করা হবে, সেদিন মানুষ স্মরণ করবে, কিন্তু সেই স্মরণ তার কী উপকারে আসবে?",
+    "surahNumber": 89,
+    "ayahNumber": 23
+  },
+  {
+    "surahName": "Al-Layl",
+    "arabicData": [
+      "فَسَنُيَسِّرُهُۥ لِلْعُسْرَىٰ",
+      "فسنيسره للعسرى"
+    ],
+    "englishData": "We will facilitate for them the path of hardship.",
+    "bengaliData": "আমি তার জন্য কঠিন পথে চলা সুগম করে দেব।",
+    "surahNumber": 92,
+    "ayahNumber": 10
+  },
+  {
+    "surahName": "Al-Layl",
+    "arabicData": [
+      "وَمَا يُغْنِى عَنْهُ مَالُهُۥٓ إِذَا تَرَدَّىٰٓ",
+      "وما يغني عنه ماله اذا تردى"
+    ],
+    "englishData": "And their wealth will be of no benefit to them when they tumble ˹into Hell˺.",
+    "bengaliData": "আর তার সম্পদ তার কোন কাজে আসবে না, যখন সে অধঃপতিত হবে।",
+    "surahNumber": 92,
+    "ayahNumber": 11
+  },
+  {
+    "surahName": "Ad-Duhaa",
+    "arabicData": [
+      "أَلَمْ يَجِدْكَ يَتِيمًا فَـَٔاوَىٰ",
+      "الم يجدك يتيما فاوى"
+    ],
+    "englishData": "Did He not find you as an orphan then sheltered you?",
+    "bengaliData": "তিনি কি তোমাকে ইয়াতীম অবস্থায় পাননি? অতঃপর তিনি আশ্রয় দিয়েছেন।",
+    "surahNumber": 93,
+    "ayahNumber": 6
+  },
+  {
+    "surahName": "Ad-Duhaa",
+    "arabicData": [
+      "وَوَجَدَكَ ضَآلًّا فَهَدَىٰ",
+      "ووجدك ضالا فهدى"
+    ],
+    "englishData": "Did He not find you unguided then guided you?",
+    "bengaliData": "আর তিনি তোমাকে পেয়েছেন পথ না জানা অবস্থায়। অতঃপর তিনি পথনির্দেশ দিয়েছেন।",
+    "surahNumber": 93,
+    "ayahNumber": 7
+  },
+  {
+    "surahName": "Ad-Duhaa",
+    "arabicData": [
+      "وَوَجَدَكَ عَآئِلًا فَأَغْنَىٰ",
+      "ووجدك عائلا فاغنى"
+    ],
+    "englishData": "And did He not find you needy then satisfied your needs?",
+    "bengaliData": "তিনি তোমাকে পেয়েছেন নিঃস্ব। অতঃপর তিনি সমৃদ্ধ করেছেন।",
+    "surahNumber": 93,
+    "ayahNumber": 8
+  },
+  {
+    "surahName": "Ash-Sharh",
+    "arabicData": [
+      "إِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+      "ان مع العسر يسرا"
+    ],
+    "englishData": "Surely with ˹that˺ hardship comes ˹more˺ ease.",
+    "bengaliData": "নিশ্চয় কষ্টের সাথেই রয়েছে সুখ।",
+    "surahNumber": 94,
+    "ayahNumber": 6
+  },
+  {
+    "surahName": "At-Tin",
+    "arabicData": [
+      "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ فَلَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ",
+      "الا الذين امنوا وعملوا الصالحات فلهم اجر غير ممنون"
+    ],
+    "englishData": "except those who believe and do good—they will have a never-ending reward.",
+    "bengaliData": "তবে যারা ঈমান এনেছে এবং সৎকর্ম করেছে, তাদের জন্য রয়েছে নিরবচ্ছিন্ন পুরস্কার।",
+    "surahNumber": 95,
+    "ayahNumber": 6
+  },
+  {
+    "surahName": "At-Tin",
+    "arabicData": [
+      "أَلَيْسَ ٱللَّهُ بِأَحْكَمِ ٱلْحَـٰكِمِينَ",
+      "اليس الله باحكم الحاكمين"
+    ],
+    "englishData": "Is Allah not the most just of all judges?",
+    "bengaliData": "আল্লাহ কি বিচারকদের শ্রেষ্ঠ বিচারক নন?",
+    "surahNumber": 95,
+    "ayahNumber": 8
+  },
+  {
+    "surahName": "Al-Bayyinah",
+    "arabicData": [
+      "رَسُولٌ مِّنَ ٱللَّهِ يَتْلُوا۟ صُحُفًا مُّطَهَّرَةً",
+      "رسول من الله يتلو صحفا مطهرة"
+    ],
+    "englishData": "A messenger from Allah, reciting scrolls of ˹utmost˺ purity",
+    "bengaliData": "আল্লাহর পক্ষ থেকে এক রাসূল পবিত্র কিতাবসমূহ তিলাওয়াত করে।",
+    "surahNumber": 98,
+    "ayahNumber": 2
+  },
+  {
+    "surahName": "Al-Bayyinah",
+    "arabicData": [
+      "وَمَا تَفَرَّقَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ إِلَّا مِنۢ بَعْدِ مَا جَآءَتْهُمُ ٱلْبَيِّنَةُ",
+      "وما تفرق الذين اوتوا الكتاب الا من بعد ما جاءتهم البينة"
+    ],
+    "englishData": "It was not until this clear proof came to the People of the Book that they became divided ˹about his prophethood˺—",
+    "bengaliData": "আর কিতাবীরা তাদের কাছে সুস্পষ্ট প্রমাণ আসার পরই কেবল মতভেদ করেছে।",
+    "surahNumber": 98,
+    "ayahNumber": 4
+  },
+  {
+    "surahName": "Az-Zalzalah",
+    "arabicData": [
+      "يَوْمَئِذٍ يَصْدُرُ ٱلنَّاسُ أَشْتَاتًا لِّيُرَوْا۟ أَعْمَـٰلَهُمْ",
+      "يومئذ يصدر الناس اشتاتا ليروا اعمالهم"
+    ],
+    "englishData": "On that Day people will proceed in separate groups to be shown ˹the consequences of˺ their deeds.",
+    "bengaliData": "সেদিন মানুষ বিক্ষিপ্তভাবে বের হয়ে আসবে যাতে দেখানো যায় তাদেরকে তাদের নিজদের কৃতকর্ম।",
+    "surahNumber": 99,
+    "ayahNumber": 6
+  },
+  {
+    "surahName": "Az-Zalzalah",
+    "arabicData": [
+      "وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُۥ",
+      "ومن يعمل مثقال ذرة شرا يره"
+    ],
+    "englishData": "And whoever does an atom’s weight of evil will see it.",
+    "bengaliData": "আর কেউ অণু পরিমাণ খারাপ কাজ করলে তাও সে দেখবে।",
+    "surahNumber": 99,
+    "ayahNumber": 8
+  },
+  {
+    "surahName": "Al-'Adiyat",
+    "arabicData": [
+      "۞ أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِى ٱلْقُبُورِ",
+      "افلا يعلم اذا بعثر ما في القبور"
+    ],
+    "englishData": "Do they not know that when the contents of the graves will be spilled out",
+    "bengaliData": "তবে কি সে জানে না যখন কবরে যা আছে তা উত্থিত হবে?",
+    "surahNumber": 100,
+    "ayahNumber": 9
+  },
+  {
+    "surahName": "Al-Humazah",
+    "arabicData": [
+      "يَحْسَبُ أَنَّ مَالَهُۥٓ أَخْلَدَهُۥ",
+      "يحسب ان ماله اخلده"
+    ],
+    "englishData": "Thinking that their wealth will make them immortal!",
+    "bengaliData": "সে মনে করে তার সম্পদ তাকে চিরজীবি করবে।",
+    "surahNumber": 104,
+    "ayahNumber": 3
+  },
+  {
+    "surahName": "Al-Fil",
+    "arabicData": [
+      "أَلَمْ يَجْعَلْ كَيْدَهُمْ فِى تَضْلِيلٍ",
+      "الم يجعل كيدهم في تضليل"
+    ],
+    "englishData": "Did He not frustrate their scheme?",
+    "bengaliData": "তিনি কি তাদের ষড়যন্ত্র ব্যর্থতায় পর্যবসিত করেননি?",
+    "surahNumber": 105,
+    "ayahNumber": 2
+  }
+]
