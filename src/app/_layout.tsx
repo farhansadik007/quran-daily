@@ -4,6 +4,7 @@ import { Pressable, StyleSheet, Text, View } from 'react-native';
 import { SafeAreaView } from "react-native-safe-area-context";
 import { useEffect } from 'react';
 import { registerForNotifications, scheduleNext7Days, setupNotificationChannel } from '../utils/notifications';
+import IslamicPatternBackground from "@/components/IslamicPatternBackground";
 
 
 function TabButton(props: any) {
@@ -34,6 +35,7 @@ export default function RootLayout() {
   return (
     <SafeAreaView style={styles.root} edges={['top']}>
       <View style={styles.header}>
+        <IslamicPatternBackground />
         <Text style={styles.headerText}>Quran Daily</Text>
       </View>
       <Tabs
@@ -71,8 +73,9 @@ const styles = StyleSheet.create({
   root: { flex: 1, backgroundColor: '#0f4c3a' },
   header: {
     backgroundColor: '#0f4c3a',
-    paddingVertical: 18,
+    paddingVertical: 14,
     alignItems: 'center',
+    overflow: 'hidden',
   },
   headerText: { color: '#fff', fontSize: 24, fontWeight: '600' },
   tabButton: { overflow: 'hidden' },

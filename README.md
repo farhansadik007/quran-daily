@@ -6,4 +6,4 @@
  - Saved Ayah Feature
  - Can change notification time
  - Week Bar
- 
+ - Share Ayah across different platforms

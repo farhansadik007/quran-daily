@@ -27,8 +27,9 @@ export default function WeekMeter() {
             <View style={styles.row}>
                 {weekDates.map((date, i) => {
                     const isRead = readDates.includes(toDateString(date));
+                    const isToday = toDateString(date) === toDateString(new Date());
                     return (
-                        <View key={i} style={[styles.dayBox, isRead && styles.dayBoxFilled]}>
+                        <View key={i} style={[styles.dayBox, isRead && styles.dayBoxFilled, isToday && styles.dayBoxToday]}>
                             <Text style={[styles.dateNum, isRead && styles.dateNumFilled]}>{date.getDate()}</Text>
                             <Text style={[styles.dayLabel, isRead && styles.dayLabelFilled]}>{DAY_LABELS[i]}</Text>
                         </View>
@@ -49,6 +50,10 @@ const styles = StyleSheet.create({
         shadowOpacity: 0.06,
         shadowRadius: 8,
         elevation: 2,
+    },
+    dayBoxToday: {
+        borderWidth: 2,
+        borderColor: '#0f4c3a',
     },
     headerRow: {
         flexDirection: 'row',

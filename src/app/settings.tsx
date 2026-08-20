@@ -1,7 +1,8 @@
 import { scheduleNext7Days } from '@/utils/notifications';
-import { formatHour, getNotificationHour, setNotificationHour } from '@/utils/settings';
+import { formatHour, getDisplayLanguage, getNotificationHour, setDisplayLanguage, setNotificationHour } from '@/utils/settings';
 import { useState, useEffect } from 'react';
 import { View, Text, StyleSheet, Pressable, Modal, FlatList } from 'react-native';
+import { openBatteryOptimizationSettings } from '../utils/notifications';
 
 const HOURS = Array.from({ length: 17 }, (_, i) => i + 5);
 
@@ -9,13 +10,18 @@ export default function Settings() {
   const [selectedHour, setSelectedHour] = useState<number>(7);
   const [modalVisible, setModalVisible] = useState(false);
 
+  const [selectedLang, setSelectedLang] = useState<'en' | 'bn'>('en');
+  const [langModalVisible, setLangModalVisible] = useState(false);
+
   useEffect(() => {
     const load = async () => {
       setSelectedHour(await getNotificationHour());
+      setSelectedLang(await getDisplayLanguage());
     };
     load();
   }, []);
 
+  // daily reminder settings 
   async function handleSelect(hour: number) {
     setSelectedHour(hour);
     await setNotificationHour(hour);
@@ -23,8 +29,17 @@ export default function Settings() {
     setModalVisible(false);
   }
 
+  // language settings 
+  async function handleSelectLang(lang: 'en' | 'bn') {
+    setSelectedLang(lang);
+    await setDisplayLanguage(lang);
+    setLangModalVisible(false);
+  }
+
   return (
     <View style={styles.container}>
+
+      {/* Daily Reminder Setting */}
       <View style={styles.settingRow}>
         <View>
           <Text style={styles.label}>Daily reminder time</Text>
@@ -35,6 +50,28 @@ export default function Settings() {
         </Pressable>
       </View>
 
+      {/* Battery Optimization Setting */}
+      <View style={styles.settingRow}>
+        <View>
+          <Text style={styles.label}>Battery optimization</Text>
+          <Text style={styles.hint}>Allow for reliable daily reminders</Text>
+        </View>
+        <Pressable style={styles.trigger} onPress={openBatteryOptimizationSettings}>
+          <Text style={styles.triggerText}>Open</Text>
+        </Pressable>
+      </View>
+
+      <View style={styles.settingRow}>
+        <View >
+          <Text style={styles.label}>Translation language</Text>
+          <Text style={styles.hint}>Tap to change</Text>
+        </View>
+        <Pressable style={styles.trigger} onPress={() => setLangModalVisible(true)}>
+          <Text style={styles.triggerText}>{selectedLang === 'en' ? 'English' : 'বাংলা '}</Text>
+        </Pressable>
+      </View>
+
+      {/* Modal for Daily Reminder */}
       <Modal
         visible={modalVisible}
         transparent
@@ -61,6 +98,21 @@ export default function Settings() {
           </View>
         </Pressable>
       </Modal>
+
+      {/* Modal for Language Settings */}
+      <Modal visible={langModalVisible} transparent animationType="fade" onRequestClose={() => setLangModalVisible(false)}>
+        <Pressable style={styles.backdrop} onPress={() => setLangModalVisible(false)}>
+          <View style={styles.popup}>
+            <Text style={styles.popupTitle}>Choose language</Text>
+            <Pressable style={[styles.option, selectedLang === 'en' && styles.optionSelected]} onPress={() => handleSelectLang('en')}>
+              <Text style={[styles.optionText, selectedLang === 'en' && styles.optionTextSelected]}>English</Text>
+            </Pressable>
+            <Pressable style={[styles.option, selectedLang === 'bn' && styles.optionSelected]} onPress={() => handleSelectLang('bn')}>
+              <Text style={[styles.optionText, selectedLang === 'bn' && styles.optionTextSelected]}>বাংলা</Text>
+            </Pressable>
+          </View>
+        </Pressable>
+      </Modal>
     </View>
   );
 }
@@ -76,6 +128,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#fff',
     borderRadius: 14,
     padding: 16,
+    marginBottom: 12,
     shadowColor: '#000',
     shadowOpacity: 0.05,
     shadowRadius: 6,

@@ -7,10 +7,12 @@ import MarkAsReadButton from '@/components/MarkAsReadButton';
 import { Ayah } from '@/types';
 import WeekMeter from '@/components/WeekMeter';
 import ShareButton from '@/components/ShareButton';
+import BatteryBanner from '@/components/BatteryBanner';
 
 
 export default function App() {
   const [ayah, setAyah] = useState<Ayah | null>(null);
+  const [refreshKey, setRefreshKey] = useState(0);
 
   useEffect(() => {
     const dayOfYear: number = Math.floor((Date.now() - new Date(new Date().getFullYear(), 0, 0).getTime()) / 86400000);
@@ -28,11 +30,12 @@ export default function App() {
 
   return (
     <SafeAreaView style={styles.container}>
-      <WeekMeter />
+      <BatteryBanner />
+      <WeekMeter key={refreshKey} />
       <View style={styles.centerContent}>
         <AyahCard ayah={ayah} />
         <View style={styles.actionsRow}>
-          <MarkAsReadButton />
+          <MarkAsReadButton onRead={() => setRefreshKey((k) => k + 1)} />
           <ShareButton ayah={ayah} />
         </View>
       </View>

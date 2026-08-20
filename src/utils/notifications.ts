@@ -1,6 +1,7 @@
 import * as Notifications from 'expo-notifications';
 import * as Device from 'expo-device';
 import { Platform } from 'react-native';
+import * as IntentLauncher from 'expo-intent-launcher';
 import { Ayah } from '@/types';
 import { getAyahForDate } from '.';
 
@@ -36,7 +37,6 @@ export async function setupNotificationChannel() {
   }
 }
 
-
 //schedule for 7 days
 export async function scheduleNext7Days(hour = 7, minute = 0) {
   await Notifications.cancelAllScheduledNotificationsAsync();
@@ -65,4 +65,12 @@ export async function scheduleNext7Days(hour = 7, minute = 0) {
       },
     });
   }
+}
+
+// open battery optimization settings
+export async function openBatteryOptimizationSettings() {
+  if (Platform.OS !== 'android') return;
+  await IntentLauncher.startActivityAsync(
+    IntentLauncher.ActivityAction.IGNORE_BATTERY_OPTIMIZATION_SETTINGS
+  );
 }

@@ -3,7 +3,11 @@ import { useState, useEffect } from 'react';
 import { Pressable, Text, StyleSheet } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
 
-export default function MarkAsReadButton() {
+type Props = {
+  onRead?: () => void;
+};
+
+export default function MarkAsReadButton({ onRead }: Props) {
     const [readToday, setReadToday] = useState(false);
 
     useEffect(() => {
@@ -16,7 +20,10 @@ export default function MarkAsReadButton() {
     async function handlePress() {
         await markAsRead();
         setReadToday(true);
+        onRead?.();
     }
+
+    
 
     return (
         <Pressable
