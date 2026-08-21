@@ -1,25 +1,36 @@
 import { Pressable, Text, StyleSheet, View } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
 import { Ayah } from '../types';
+import IslamicPatternBackground from './IslamicPatternBackground';
+import { useCallback, useState } from 'react';
+import { useFocusEffect } from 'expo-router';
+import { getDisplayLanguage } from '@/utils/settings';
 
 type Props = {
-    ayah: Ayah;
-    onPress: () => void;
+  ayah: Ayah;
+  onPress: () => void;
 };
 
 export default function AyahListItem({ ayah, onPress }: Props) {
-    const snippet =
-        ayah.englishData.length > 60
-            ? ayah.englishData.slice(0, 90) + '…'
-            : ayah.englishData;
+  const [lang, setLang] = useState<'en' | 'bn'>('en');
 
+  useFocusEffect(
+    useCallback(() => {
+      const load = async () => setLang(await getDisplayLanguage());
+      load();
+    }, [])
+  );
 
-    return (
+  const text = lang === 'bn' ? ayah.bengaliData : ayah.englishData;
+  const snippet = text.length > 70 ? text.slice(0, 70) + '…' : text;
+
+  return (
     <Pressable
       style={({ pressed }) => [styles.item, pressed && styles.itemPressed]}
       onPress={onPress}
       android_ripple={{ color: 'rgba(15,76,58,0.08)' }}
     >
+      <IslamicPatternBackground bgColor="transparent" lineColor="#0f4c3a" opacity={0.09} />
       <View style={styles.accentBar} />
       <View style={styles.content}>
         <View style={styles.headerRow}>
@@ -39,7 +50,7 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     backgroundColor: '#fff',
     borderRadius: 14,
-    marginBottom: 12,
+    marginBottom: 4,
     marginHorizontal: 10,
     marginVertical: 8,
     overflow: 'hidden',

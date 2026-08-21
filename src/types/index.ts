@@ -13,3 +13,10 @@ export type Props = {
 };
 
 export type ReadRecord = { date: string; ayahIndex: number };
+
+export type BGProps = {
+  gradientFade?: boolean;
+  lineColor?: string;
+  bgColor?: string;
+  opacity?: number;
+};

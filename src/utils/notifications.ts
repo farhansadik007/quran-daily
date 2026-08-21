@@ -4,6 +4,7 @@ import { Platform } from 'react-native';
 import * as IntentLauncher from 'expo-intent-launcher';
 import { Ayah } from '@/types';
 import { getAyahForDate } from '.';
+import { getDisplayLanguage } from './settings';
 
 Notifications.setNotificationHandler({
   handleNotification: async () => ({
@@ -40,7 +41,7 @@ export async function setupNotificationChannel() {
 //schedule for 7 days
 export async function scheduleNext7Days(hour = 7, minute = 0) {
   await Notifications.cancelAllScheduledNotificationsAsync();
-
+  const lang = await getDisplayLanguage();
   const now = new Date();
 
   for (let i = 0; i < 7; i++) {
@@ -56,7 +57,7 @@ export async function scheduleNext7Days(hour = 7, minute = 0) {
     await Notifications.scheduleNotificationAsync({
       content: {
         title: `Today's Ayah - ${ayah.surahName} ${ayah.surahNumber}:${ayah.ayahNumber}`,
-        body: ayah.englishData,
+        body: lang === 'bn' ? ayah.bengaliData : ayah.englishData,
       },
       trigger: {
         type: Notifications.SchedulableTriggerInputTypes.DATE,

@@ -1,11 +1,12 @@
 import { Tabs } from "expo-router";
 import { Feather, MaterialIcons } from '@expo/vector-icons'
 import { Pressable, StyleSheet, Text, View } from 'react-native';
-import { SafeAreaView } from "react-native-safe-area-context";
+import { SafeAreaView, useSafeAreaInsets } from "react-native-safe-area-context";
 import { useEffect } from 'react';
 import { registerForNotifications, scheduleNext7Days, setupNotificationChannel } from '../utils/notifications';
 import IslamicPatternBackground from "@/components/IslamicPatternBackground";
-
+import mobileAds from 'react-native-google-mobile-ads';
+import { getNotificationHour } from "@/utils/settings";
 
 function TabButton(props: any) {
   return (
@@ -19,14 +20,15 @@ function TabButton(props: any) {
 
 
 export default function RootLayout() {
+  const insets = useSafeAreaInsets();
   useEffect(() => {
     const init = async () => {
+      await mobileAds().initialize();
       await setupNotificationChannel();
       const granted = await registerForNotifications();
       if (granted) {
-        await scheduleNext7Days();
-        // const now = new Date();
-        // await scheduleNext7Days(now.getHours(), now.getMinutes() + 1);
+        const savedHour = await getNotificationHour();
+        await scheduleNext7Days(savedHour);
       }
     };
     init();
@@ -38,10 +40,26 @@ export default function RootLayout() {
         <IslamicPatternBackground />
         <Text style={styles.headerText}>Quran Daily</Text>
       </View>
+      
       <Tabs
         screenOptions={{
           headerShown: false,
-          tabBarActiveTintColor: '#0f4c3a',
+          tabBarBackground: () => <IslamicPatternBackground />,
+          tabBarStyle: {
+            height: 68 + insets.bottom,
+            paddingBottom: insets.bottom,
+            paddingTop: 8,
+            borderTopWidth: 0,
+            borderTopLeftRadius: 24,
+            borderTopRightRadius: 24,
+            overflow: 'hidden',
+            shadowColor: '#000',
+            shadowOpacity: 0.08,
+            shadowRadius: 10,
+            elevation: 8,
+          },
+          tabBarActiveTintColor: '#d4a94a',
+          tabBarInactiveTintColor: 'rgba(255,255,255,0.6)',
         }}>
         <Tabs.Screen
           name="index"

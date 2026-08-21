@@ -8,6 +8,7 @@ import { Ayah } from '@/types';
 import WeekMeter from '@/components/WeekMeter';
 import ShareButton from '@/components/ShareButton';
 import BatteryBanner from '@/components/BatteryBanner';
+import AppBannerAd from "@/components/BannerAds";
 
 
 export default function App() {
@@ -39,6 +40,9 @@ export default function App() {
           <ShareButton ayah={ayah} />
         </View>
       </View>
+      <View style={styles.bannerContainer}>
+        <AppBannerAd />
+      </View>
     </SafeAreaView>
   );
 }
@@ -51,7 +55,16 @@ const styles = StyleSheet.create({
     marginTop: 16,
     alignItems: 'center',
   },
+  bannerContainer: {
+  position: 'absolute',
+  bottom: 0,
+  left: 0,
+  right: 0,
+  alignItems: 'center',
+  justifyContent: 'center',
+  backgroundColor: '#edefe6',
+},
   arabic: { fontSize: 20, textAlign: 'center', marginBottom: 16, lineHeight: 42 },
   translation: { fontSize: 16, textAlign: 'center', color: '#333' },
-  centerContent: { flex: 1, justifyContent: 'center', alignItems: 'center' },
+  centerContent: { justifyContent: 'center', alignItems: 'center' },
 });

@@ -5,6 +5,7 @@ import { getSavedAyah, getAyahByKey } from '../utils';
 import { Ayah } from '../types';
 import AyahCard from '../components/AyahCard';
 import AyahListItem from '@/components/AyahListItem';
+import AppBannerAd from '@/components/BannerAds';
 
 export default function Saved() {
   const [savedAyah, setSavedAyah] = useState<Ayah[]>([]);
@@ -40,6 +41,9 @@ export default function Saved() {
           {selectedAyah && <AyahCard ayah={selectedAyah} showSaveButton={false} />}
         </View>
       </Modal>
+      <View style={styles.bannerContainer}>
+        <AppBannerAd />
+      </View>
     </>
   );
 }
@@ -52,5 +56,14 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
     padding: 24,
+  },
+  bannerContainer: {
+    position: 'absolute',
+    bottom: 0,
+    left: 0,
+    right: 0,
+    alignItems: 'center',
+    justifyContent: 'center',
+    backgroundColor: '#edefe6',
   },
 });

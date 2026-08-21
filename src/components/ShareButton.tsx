@@ -2,21 +2,34 @@ import { Pressable, Text, StyleSheet, Share } from 'react-native';
 import { Ayah } from '../types';
 import Constants from 'expo-constants';
 import { Ionicons } from '@expo/vector-icons';
+import { useCallback, useState } from 'react';
+import { useFocusEffect } from 'expo-router';
+import { getDisplayLanguage } from '@/utils/settings';
 
 type Props = {
     ayah: Ayah;
 };
 
 export default function ShareButton({ ayah }: Props) {
+    const [lang, setLang] = useState<'en' | 'bn'>('en');
+
+    useFocusEffect(
+        useCallback(() => {
+            const load = async () => setLang(await getDisplayLanguage());
+            load();
+        }, [])
+    );
+
     async function handleShare() {
-        const appName = Constants.expoConfig?.name ?? 'Ayah Daily';
+        const appName = Constants.expoConfig?.name ?? 'Quran Daily';
+        const translationText = lang === 'bn' ? ayah.bengaliData : ayah.englishData;
 
         const message = [
             ayah.arabicData[0],
             '',
-            `"${ayah.englishData}"`,
+            `"${translationText}"`,
             '',
-            `— ${ayah.surahName} ${ayah.surahNumber}:${ayah.ayahNumber}`,
+            `- ${ayah.surahName} ${ayah.surahNumber}:${ayah.ayahNumber}`,
             '',
             `Shared via ${appName}`,
         ].join('\n');

@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react';
 import { View, Text, StyleSheet } from 'react-native';
 import { getReadDates, getMondayOfWeek, toDateString, DAY_LABELS, MONTH_NAMES } from '../utils/dayMeter';
+import IslamicPatternBackground from './IslamicPatternBackground';
 
 export default function WeekMeter() {
     const [readDates, setReadDates] = useState<string[]>([]);
@@ -20,6 +21,7 @@ export default function WeekMeter() {
 
     return (
         <View style={styles.container}>
+            <IslamicPatternBackground bgColor="transparent" lineColor="#0f4c3a" opacity={0.06} />
             <View style={styles.headerRow}>
                 <Text style={styles.todayLabel}>Today</Text>
                 <Text style={styles.monthLabel}>{monthLabel}</Text>
